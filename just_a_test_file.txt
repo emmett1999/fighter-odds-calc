@@ -1,0 +1,923 @@
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  14–10 (1)
+ </td>
+ <td>
+  Yusup Shuaev
+ </td>
+ <td>
+  Decision (majority)
+ </td>
+ <td>
+  <a href="/wiki/2021_in_AMC_Fight_Nights#AMC_Fight_Nights:_Sochi" title="2021 in AMC Fight Nights">
+   AMC Fight Nights: Sochi
+  </a>
+ </td>
+ <td>
+  <span data-sort-value="000000002021-02-23-0000" style="white-space:nowrap">
+   February 23, 2021
+  </span>
+ </td>
+ <td align="center">
+  3
+ </td>
+ <td align="center">
+  5:00
+ </td>
+ <td>
+  <a href="/wiki/Sochi" title="Sochi">
+   Sochi
+  </a>
+  , Russia
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  14–9 (1)
+ </td>
+ <td>
+  Aleksandar Aleksic
+ </td>
+ <td>
+  TKO (punches)
+ </td>
+ <td>
+  Megdan Fighting 6
+ </td>
+ <td>
+  <span data-sort-value="000000002019-12-09-0000" style="white-space:nowrap">
+   December 9, 2019
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  3:18
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Belgrade,_Serbia" title="Belgrade, Serbia">
+   Belgrade, Serbia
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  13–9 (1)
+ </td>
+ <td>
+  Marko Djordevic
+ </td>
+ <td>
+  TKO (punches)
+ </td>
+ <td>
+  Megdan Fighting 5
+ </td>
+ <td>
+  <span data-sort-value="000000002019-06-27-0000" style="white-space:nowrap">
+   June 27, 2019
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  0:53
+ </td>
+ <td>
+  <a href="/wiki/Sremska_Mitrovica" title="Sremska Mitrovica">
+   Sremska Mitrovica
+  </a>
+ </td>
+ <td>
+  <sup class="reference" id="cite_ref-6">
+   <a href="#cite_note-6">
+    [6]
+   </a>
+  </sup>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  12–9 (1)
+ </td>
+ <td>
+  Aleksandar Aleksic
+ </td>
+ <td>
+  TKO (punches)
+ </td>
+ <td>
+  Megdan Fighting 4
+ </td>
+ <td>
+  <span data-sort-value="000000002019-03-15-0000" style="white-space:nowrap">
+   March 15, 2019
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  0:23
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Novi_Sad,_Serbia" title="Novi Sad, Serbia">
+   Novi Sad, Serbia
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  11–9 (1)
+ </td>
+ <td>
+  Edvaldo de Oliveira
+ </td>
+ <td>
+  TKO (retirement)
+ </td>
+ <td>
+  Imortal FC 9
+ </td>
+ <td>
+  <span data-sort-value="000000002018-06-02-0000" style="white-space:nowrap">
+   June 2, 2018
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  5:00
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Sao_Luis,_Brazil" title="Sao Luis, Brazil">
+   Sao Luis, Brazil
+  </a>
+ </td>
+ <td>
+  <sup class="reference" id="cite_ref-7">
+   <a href="#cite_note-7">
+    [7]
+   </a>
+  </sup>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  11–8 (1)
+ </td>
+ <td>
+  Geronimo dos Santos
+ </td>
+ <td>
+  KO (punches)
+ </td>
+ <td>
+  Mr. Cage 4
+ </td>
+ <td>
+  <span data-sort-value="000000002010-11-30-0000" style="white-space:nowrap">
+   November 30, 2010
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  N/A
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Manaus,_Brazil" title="Manaus, Brazil">
+   Manaus, Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  11–7 (1)
+ </td>
+ <td>
+  Douglas Humberto
+ </td>
+ <td>
+  Decision (split)
+ </td>
+ <td>
+  Ilha Combat 3: Confrontation of Giants
+ </td>
+ <td>
+  <span data-sort-value="000000002010-04-09-0000" style="white-space:nowrap">
+   April 9, 2010
+  </span>
+ </td>
+ <td align="center">
+  3
+ </td>
+ <td align="center">
+  5:00
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Sao_Luis,_Brazil" title="Sao Luis, Brazil">
+   Sao Luis, Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  10–7 (1)
+ </td>
+ <td>
+  Angelo Araujo
+ </td>
+ <td>
+  TKO (retirement)
+ </td>
+ <td>
+  Ilha Combat 2: Araujo vs. Zuluzinho
+ </td>
+ <td>
+  <span data-sort-value="000000002009-12-19-0000" style="white-space:nowrap">
+   December 19, 2009
+  </span>
+ </td>
+ <td align="center">
+  2
+ </td>
+ <td align="center">
+  5:00
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Sao_Luis,_Brazil" title="Sao Luis, Brazil">
+   Sao Luis, Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  9–7 (1)
+ </td>
+ <td>
+  Geronimo dos Santos
+ </td>
+ <td>
+  KO (punch)
+ </td>
+ <td>
+  Fusion Combat
+ </td>
+ <td>
+  <span data-sort-value="000000002008-12-14-0000" style="white-space:nowrap">
+   December 14, 2008
+  </span>
+ </td>
+ <td align="center">
+  2
+ </td>
+ <td align="center">
+  0:22
+ </td>
+ <td>
+  <a href="/wiki/Boa_Vista,_Roraima" title="Boa Vista, Roraima">
+   Boa Vista, Roraima
+  </a>
+  ,
+  <a href="/wiki/Brazil" title="Brazil">
+   Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  9–6 (1)
+ </td>
+ <td>
+  Guilherme dos Anjos
+ </td>
+ <td>
+  TKO (submission to punches)
+ </td>
+ <td>
+  Desafio de Gigantes 10
+ </td>
+ <td>
+  <span data-sort-value="000000002008-07-06-0000" style="white-space:nowrap">
+   July 6, 2008
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  3:52
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Macapa,_Brazil" title="Macapa, Brazil">
+   Macapa, Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  9–5 (1)
+ </td>
+ <td>
+  Ibragim Magomedov
+ </td>
+ <td>
+  TKO (punches)
+ </td>
+ <td>
+  fightFORCE: Russia vs. The World
+ </td>
+ <td>
+  <span data-sort-value="000000002008-04-19-0000" style="white-space:nowrap">
+   April 19, 2008
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  N/A
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/St._Petersburg,_Russia" title="St. Petersburg, Russia">
+   St. Petersburg, Russia
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  9–4 (1)
+ </td>
+ <td>
+  <a href="/wiki/Ikuhisa_Minowa" title="Ikuhisa Minowa">
+   Ikuhisa Minowa
+  </a>
+ </td>
+ <td>
+  TKO (corner stoppage)
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/K-1_Premium_2007_Dynamite!!" title="K-1 Premium 2007 Dynamite!!">
+   K-1 Premium 2007 Dynamite!!
+  </a>
+ </td>
+ <td>
+  <span data-sort-value="000000002007-12-31-0000" style="white-space:nowrap">
+   December 31, 2007
+  </span>
+ </td>
+ <td align="center">
+  3
+ </td>
+ <td align="center">
+  2:13
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Osaka,_Japan" title="Osaka, Japan">
+   Osaka, Japan
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  8–4 (1)
+ </td>
+ <td>
+  Vladimir Kuchenko
+ </td>
+ <td>
+  Submission (rear-naked choke)
+ </td>
+ <td>
+  Bodog Fight: USA vs. Russia
+ </td>
+ <td>
+  <span data-sort-value="000000002007-11-30-0000" style="white-space:nowrap">
+   November 30, 2007
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  2:14
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Moscow,_Russia" title="Moscow, Russia">
+   Moscow, Russia
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  7–4 (1)
+ </td>
+ <td>
+  Guilherme dos Anjos
+ </td>
+ <td>
+  TKO (retirement)
+ </td>
+ <td>
+  Desafio de Gigantes 8
+ </td>
+ <td>
+  <span data-sort-value="000000002007-11-01-0000" style="white-space:nowrap">
+   November 1, 2007
+  </span>
+ </td>
+ <td align="center">
+  2
+ </td>
+ <td align="center">
+  3:50
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Macapa,_Brazil" title="Macapa, Brazil">
+   Macapa, Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  7–3 (1)
+ </td>
+ <td>
+  <a href="/wiki/Eric_Esch" title="Eric Esch">
+   Butterbean
+  </a>
+ </td>
+ <td>
+  Submission (americana)
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/PRIDE_34" title="PRIDE 34">
+   PRIDE 34
+  </a>
+ </td>
+ <td>
+  <span data-sort-value="000000002007-04-08-0000" style="white-space:nowrap">
+   April 8, 2007
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  2:35
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Saitama,_Saitama" title="Saitama, Saitama">
+   Saitama, Japan
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  7–2 (1)
+ </td>
+ <td>
+  <a href="/wiki/Ant%C3%B4nio_Rodrigo_Nogueira" title="Antônio Rodrigo Nogueira">
+   Antônio Rodrigo Nogueira
+  </a>
+ </td>
+ <td>
+  Submission (armbar)
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Pride_Total_Elimination_Absolute" title="Pride Total Elimination Absolute">
+   Pride FC - Total Elimination Absolute
+  </a>
+ </td>
+ <td>
+  <span data-sort-value="000000002006-05-05-0000" style="white-space:nowrap">
+   May 5, 2006
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  2:17
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Osaka,_Japan" title="Osaka, Japan">
+   Osaka, Japan
+  </a>
+ </td>
+ <td>
+  <span style="font-size:85%;">
+   2006 Pride Heavyweight Grand Prix Opening Round.
+  </span>
+ </td>
+</tr>
+<tr>
+ <td class="table-no2" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;">
+  Loss
+ </td>
+ <td align="center">
+  7–1 (1)
+ </td>
+ <td>
+  <a href="/wiki/Fedor_Emelianenko" title="Fedor Emelianenko">
+   Fedor Emelianenko
+  </a>
+ </td>
+ <td>
+  TKO (submission to punches)
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Pride_Shockwave_2005" title="Pride Shockwave 2005">
+   Pride FC: Shockwave 2005
+  </a>
+ </td>
+ <td>
+  <span data-sort-value="000000002005-12-31-0000" style="white-space:nowrap">
+   December 31, 2005
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  0:26
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Saitama,_Saitama" title="Saitama, Saitama">
+   Saitama, Japan
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  7–0 (1)
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Henry_Armstrong_Miller" title="Henry Armstrong Miller">
+   Henry Miller
+  </a>
+ </td>
+ <td>
+  TKO (knees)
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Pride_30" title="Pride 30">
+   Pride 30: Fully Loaded
+  </a>
+ </td>
+ <td>
+  <span data-sort-value="000000002005-10-23-0000" style="white-space:nowrap">
+   October 23, 2005
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  1:31
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Saitama,_Saitama" title="Saitama, Saitama">
+   Saitama, Japan
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  6–0 (1)
+ </td>
+ <td>
+  Rafal Dabrowski
+ </td>
+ <td>
+  KO (punch)
+ </td>
+ <td>
+  <a href="/wiki/2005_in_Cage_Warriors#CWFC:_Strike_Force_2" title="2005 in Cage Warriors">
+   CWFC: Strike Force 2
+  </a>
+ </td>
+ <td>
+  <span data-sort-value="000000002005-07-16-0000" style="white-space:nowrap">
+   July 16, 2005
+  </span>
+ </td>
+ <td align="center">
+  2
+ </td>
+ <td align="center">
+  2:04
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Coventry,_England" title="Coventry, England">
+   Coventry, England
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-draw" style="background:#c5d2ea; color:black; vertical-align:middle; text-align:center;">
+  NC
+ </td>
+ <td align="center">
+  5–0 (1)
+ </td>
+ <td>
+  Kleber Ranieri Jansen
+ </td>
+ <td>
+  NC (both fighters fell from ring)
+ </td>
+ <td>
+  Desafio de Gigantes 4
+ </td>
+ <td>
+  <span data-sort-value="000000002005-05-20-0000" style="white-space:nowrap">
+   May 20, 2005
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  N/A
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Macapa,_Brazil" title="Macapa, Brazil">
+   Macapa, Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  5–0
+ </td>
+ <td>
+  Fabio Black
+ </td>
+ <td>
+  KO (strikes)
+ </td>
+ <td>
+  World Combat 3
+ </td>
+ <td>
+  <span data-sort-value="000000002005-05-13-0000" style="white-space:nowrap">
+   May 13, 2005
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  1:20
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Sao_Luis,_Brazil" title="Sao Luis, Brazil">
+   Sao Luis, Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  4–0
+ </td>
+ <td>
+  Junior Pitbull
+ </td>
+ <td>
+  TKO (punches)
+ </td>
+ <td>
+  Desafio de Gigantes 2
+ </td>
+ <td>
+  <span data-sort-value="000000002004-03-13-0000" style="white-space:nowrap">
+   March 13, 2004
+  </span>
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  0:37
+ </td>
+ <td>
+  <a class="mw-redirect" href="/wiki/Macapa,_Brazil" title="Macapa, Brazil">
+   Macapa, Brazil
+  </a>
+ </td>
+ <td>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  3–0
+ </td>
+ <td>
+  James Adler
+ </td>
+ <td>
+  KO (punches)
+ </td>
+ <td>
+  Main Event Vale Tudo
+ </td>
+ <td>
+  2004
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  N/A
+ </td>
+ <td>
+  Itapeua,
+  <a href="/wiki/Brazil" title="Brazil">
+   Brazil
+  </a>
+ </td>
+ <td>
+  <span style="font-size:85%;">
+   Vale Tudo.
+  </span>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  2–0
+ </td>
+ <td>
+  James Adler
+ </td>
+ <td>
+  KO (punches)
+ </td>
+ <td>
+  Main Event Vale Tudo
+ </td>
+ <td>
+  2004
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  N/A
+ </td>
+ <td>
+  Itapeua,
+  <a href="/wiki/Brazil" title="Brazil">
+   Brazil
+  </a>
+ </td>
+ <td>
+  <span style="font-size:85%;">
+   Vale Tudo.
+  </span>
+ </td>
+</tr>
+<tr>
+ <td class="table-yes2" style="background:#bfd; color:black; vertical-align:middle; text-align:center;">
+  Win
+ </td>
+ <td align="center">
+  1–0
+ </td>
+ <td>
+  Carlos Andino
+ </td>
+ <td>
+  KO (punches)
+ </td>
+ <td>
+  Main Event Vale Tudo
+ </td>
+ <td>
+  November 4, 2003
+ </td>
+ <td align="center">
+  1
+ </td>
+ <td align="center">
+  N/A
+ </td>
+ <td>
+  Itapeua,
+  <a href="/wiki/Brazil" title="Brazil">
+   Brazil
+  </a>
+ </td>
+ <td>
+  <span style="font-size:85%;">
+   Vale Tudo.
+  </span>
+ </td>
+</tr>
