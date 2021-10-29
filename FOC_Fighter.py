@@ -4,31 +4,45 @@ import json
 class Fighter(object):
     """docstring"""
 
-    def __init__(self, name, weight, division, fights):
+    def __init__(self, name, weight, division, fights, stats_dict):
         """Constructor"""
         self.name = name
         self.weight = weight
         self.division = division
         self.fights = fights
+        self.stats_dict = stats_dict
 
     def print_stats(self):
         print("-------------------------FIGHTER-------------------------")
-        print(self.name)
-        print(self.weight)
-        if(type(self.division) == str):
-            print(self.division + " division")
+        print("Name: " + self.name)
+        print("Weight: " + self.weight)
+        print("Division(s) fought in:")
+        if type(self.division) == str:
+            print("\t" + self.division + " division")
         else:
             for a_division in self.division:
-                print(a_division + " division")
-        print(self.name + "'s fights:")
+                print("\t" + a_division + " division")
+
+    def print_fights(self):
+        print("-------------------------FIGHTS--------------------------")
         for a_fight in self.fights:
-            if(type(a_fight) == Fight):
+            if type(a_fight) == Fight:
                 pass
                 a_fight.print_stats()
             else:
                 pass
                 print("UNKNOWN_FIGHTS")
 
+    def print_detailed_stats(self):
+        print("----------------------DETAILED STATS----------------------")
+        print("Strikes landed per minute: " + self.stats_dict['SLpM'])
+        print("Striking accuracy %: " + self.stats_dict['StrAcc'])
+        print("Strikes absorbed per minute: " + self.stats_dict['SApM'])
+        print("Striking defense %: " + self.stats_dict['StrDef'])
+        print("Takedown average per 15 minutes: " + self.stats_dict['TDAvg'])
+        print("Takedown accuracy %: " + self.stats_dict['TDAcc'])
+        print("Takedown defense %: " + self.stats_dict['TDDef'])
+        print("Submissions attempted per 15 minutes: " + self.stats_dict['SubAvg'])
 
     def get_json(self):
         a_str = '{\n\t"name":"%s",\n\t' % self.name
@@ -57,7 +71,7 @@ if __name__ == "__main__":
     a_list = [a_fight, some_fight]
     a_fighter = Fighter("Doo-ho Choi","145","Featherweight",a_list)
     print(a_fighter.get_json())
-    with open("FOC_fighter_stats.json", "w") as handle:
+    with open("FOC_collect_stats/FOC_basic_fighter_stats.json", "w") as handle:
         handle.write(a_fighter.get_json())
-    with open("FOC_fighter_stats.json", "r") as file:
+    with open("FOC_collect_stats/FOC_basic_fighter_stats.json", "r") as file:
         data = json.load(file)

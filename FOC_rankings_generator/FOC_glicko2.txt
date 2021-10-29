@@ -1,0 +1,2378 @@
+Fighter: Jon Jones                  Glicko2: 2204.0
+Fighter: Alexander Volkanovski      Glicko2: 2202.98
+Fighter: Georges St-Pierre          Glicko2: 2197.32
+Fighter: Kamaru Usman               Glicko2: 2196.19
+Fighter: A.J. McKee                 Glicko2: 2175.31
+Fighter: Israel Adesanya            Glicko2: 2167.14
+Fighter: Henry Cejudo               Glicko2: 2134.53
+Fighter: Aljamain Sterling          Glicko2: 2126.51
+Fighter: Patricio Freire            Glicko2: 2125.56
+Fighter: Patrício Freire            Glicko2: 2125.56
+Fighter: T.J. Dillashaw             Glicko2: 2121.35
+Fighter: Islam Makhachev            Glicko2: 2111.38
+Fighter: Dominick Cruz              Glicko2: 2108.32
+Fighter: Sean Strickland            Glicko2: 2106.46
+Fighter: Michael Page (fighter)     Glicko2: 2106.37
+Fighter: Daniel Cormier             Glicko2: 2103.0
+Fighter: Rafael Lovato Jr.          Glicko2: 2101.9
+Fighter: Max Holloway               Glicko2: 2101.89
+Fighter: Movsar Evloev              Glicko2: 2101.61
+Fighter: Colby Covington            Glicko2: 2100.8
+Fighter: Michael Chandler           Glicko2: 2099.69
+Fighter: Bryce Mitchell             Glicko2: 2098.9
+Fighter: José Aldo                  Glicko2: 2098.61
+Fighter: Dustin Poirier             Glicko2: 2097.76
+Fighter: Justin Gaethje             Glicko2: 2097.21
+Fighter: Stipe Miocic               Glicko2: 2097.06
+Fighter: Demetrious Johnson (fighter) Glicko2: 2096.83
+Fighter: Magomed Ankalaev           Glicko2: 2095.1
+Fighter: Ben Askren                 Glicko2: 2091.68
+Fighter: Ciryl Gane                 Glicko2: 2091.39
+Fighter: Gregor Gillespie           Glicko2: 2090.95
+Fighter: Paulo Costa (fighter)      Glicko2: 2086.77
+Fighter: Julio Cesar Neves          Glicko2: 2085.0
+Fighter: Frankie Edgar              Glicko2: 2081.97
+Fighter: Josh Emmett                Glicko2: 2079.18
+Fighter: Robert Whittaker (fighter) Glicko2: 2075.23
+Fighter: Rob Font                   Glicko2: 2072.43
+Fighter: Benson Henderson           Glicko2: 2071.39
+Fighter: Brad Riddell               Glicko2: 2071.22
+Fighter: Zabit Magomedsharipov      Glicko2: 2069.96
+Fighter: Chad Mendes                Glicko2: 2069.48
+Fighter: Petr Yan                   Glicko2: 2068.47
+Fighter: Gegard Mousasi             Glicko2: 2066.05
+Fighter: Askar Askarov              Glicko2: 2064.15
+Fighter: Anthony Johnson (fighter)  Glicko2: 2062.9
+Fighter: Shamil Gamzatov            Glicko2: 2058.08
+Fighter: Deiveson Figueiredo        Glicko2: 2057.92
+Fighter: Brian Ortega               Glicko2: 2057.64
+Fighter: Shinya Aoki                Glicko2: 2057.57
+Fighter: Rustam Khabilov            Glicko2: 2056.67
+Fighter: Vitaly Minakov             Glicko2: 2056.38
+Fighter: Sean O'Malley (fighter)    Glicko2: 2056.32
+Fighter: Brad Tavares               Glicko2: 2056.12
+Fighter: Cory Sandhagen             Glicko2: 2055.87
+Fighter: Reinier De Ridder          Glicko2: 2054.25
+Fighter: Beneil Dariush             Glicko2: 2051.42
+Fighter: Cain Velasquez             Glicko2: 2050.96
+Fighter: Santiago Ponzinibbio       Glicko2: 2050.64
+Fighter: Ryan Bader                 Glicko2: 2049.31
+Fighter: Muslim Salikhov            Glicko2: 2048.85
+Fighter: Andrey Koreshkov           Glicko2: 2048.09
+Fighter: Joseph Benavidez           Glicko2: 2047.57
+Fighter: Cole Konrad                Glicko2: 2047.16
+Fighter: Rick Hawn                  Glicko2: 2045.12
+Fighter: Jack Shore                 Glicko2: 2044.96
+Fighter: Carlos Diego Ferreira      Glicko2: 2039.72
+Fighter: Conor McGregor             Glicko2: 2039.72
+Fighter: John Hathaway              Glicko2: 2039.67
+Fighter: Ilia Topuria               Glicko2: 2035.23
+Fighter: Elias Theodorou            Glicko2: 2034.27
+Fighter: Michel Prazeres            Glicko2: 2034.1
+Fighter: Cody Garbrandt             Glicko2: 2033.22
+Fighter: Gilbert Burns (fighter)    Glicko2: 2031.56
+Fighter: Juan Archuleta             Glicko2: 2031.28
+Fighter: Ottman Azaitar             Glicko2: 2027.65
+Fighter: Calvin Kattar              Glicko2: 2026.98
+Fighter: Urijah Faber               Glicko2: 2026.13
+Fighter: Tony Ferguson (fighter)    Glicko2: 2022.8
+Fighter: Vadim Nemkov               Glicko2: 2022.73
+Fighter: Raphael Assunção           Glicko2: 2020.41
+Fighter: Dong Hyun Kim              Glicko2: 2019.91
+Fighter: Glover Teixeira            Glicko2: 2017.17
+Fighter: Ricardo Lamas              Glicko2: 2016.93
+Fighter: Sergio Pettis              Glicko2: 2015.88
+Fighter: Luke Rockhold              Glicko2: 2015.59
+Fighter: Derek Brunson              Glicko2: 2013.99
+Fighter: Belal Muhammad             Glicko2: 2012.92
+Fighter: Dominick Reyes             Glicko2: 2011.28
+Fighter: Brendan Allen              Glicko2: 2010.77
+Fighter: Ray Mercer                 Glicko2: 2010.74
+Fighter: Raoni Barcelos             Glicko2: 2010.35
+Fighter: Bibiano Fernandes          Glicko2: 2009.71
+Fighter: Lyle Beerbohm              Glicko2: 2009.06
+Fighter: Murad Machaev              Glicko2: 2007.78
+Fighter: Ricky Simón                Glicko2: 2007.3
+Fighter: Pedro Munhoz               Glicko2: 2006.44
+Fighter: Benito Lopez               Glicko2: 2005.79
+Fighter: Vinc Pichel                Glicko2: 2005.51
+Fighter: Brett Johns                Glicko2: 2005.5
+Fighter: Manny Bermudez             Glicko2: 2005.26
+Fighter: Leon Edwards               Glicko2: 2004.85
+Fighter: Shane Burgos               Glicko2: 2004.72
+Fighter: Jimmie Rivera              Glicko2: 2004.58
+Fighter: Rafael Fiziev              Glicko2: 2002.9
+Fighter: Arman Tsarukyan            Glicko2: 2002.74
+Fighter: Krzysztof Jotko            Glicko2: 2002.56
+Fighter: Francisco Trinaldo         Glicko2: 2000.72
+Fighter: Gilbert Melendez           Glicko2: 1999.24
+Fighter: Will Brooks (fighter)      Glicko2: 1998.01
+Fighter: Dave Jansen                Glicko2: 1997.21
+Fighter: Yoel Romero                Glicko2: 1995.32
+Fighter: Sergei Pavlovich           Glicko2: 1995.07
+Fighter: Goiti Yamauchi             Glicko2: 1994.69
+Fighter: Arjan Bhullar              Glicko2: 1994.66
+Fighter: Khamzat Chimaev            Glicko2: 1993.47
+Fighter: Rad Martinez               Glicko2: 1993.04
+Fighter: Magomed Bibulatov          Glicko2: 1992.4
+Fighter: Alexandre Pantoja          Glicko2: 1991.28
+Fighter: Eddie Alvarez              Glicko2: 1991.04
+Fighter: Darren Elkins              Glicko2: 1990.72
+Fighter: Sean Sherk                 Glicko2: 1990.46
+Fighter: Neil Magny                 Glicko2: 1989.88
+Fighter: Alberto Mina               Glicko2: 1989.55
+Fighter: Jussier Formiga            Glicko2: 1988.24
+Fighter: Jussier da Silva           Glicko2: 1988.24
+Fighter: Edson Barboza              Glicko2: 1986.83
+Fighter: Dan Ige                    Glicko2: 1986.04
+Fighter: Adam McDonough             Glicko2: 1985.06
+Fighter: Renato Moicano             Glicko2: 1984.5
+Fighter: Valentin Moldavsky         Glicko2: 1984.41
+Fighter: Ricardo Ramos (fighter)    Glicko2: 1984.24
+Fighter: Jack Hermansson            Glicko2: 1983.28
+Fighter: Ramazan Emeev              Glicko2: 1983.27
+Fighter: Chas Skelly                Glicko2: 1982.49
+Fighter: Chris Holdsworth           Glicko2: 1981.27
+Fighter: Jairzinho Rozenstruik      Glicko2: 1978.41
+Fighter: Lyoto Machida              Glicko2: 1978.32
+Fighter: Chris Weidman              Glicko2: 1977.76
+Fighter: Michael Chiesa             Glicko2: 1976.16
+Fighter: Jorge Masvidal             Glicko2: 1976.09
+Fighter: Aleksandar Rakić           Glicko2: 1975.89
+Fighter: Donald Cerrone             Glicko2: 1974.58
+Fighter: Ronaldo Souza              Glicko2: 1973.82
+Fighter: T. J. Grant                Glicko2: 1973.67
+Fighter: TJ Grant                   Glicko2: 1973.67
+Fighter: Said Nurmagomedov          Glicko2: 1973.49
+Fighter: Junior dos Santos          Glicko2: 1972.54
+Fighter: Myles Jury                 Glicko2: 1972.43
+Fighter: Yair Rodríguez             Glicko2: 1972.26
+Fighter: Mirsad Bektić              Glicko2: 1970.67
+Fighter: Michael McDonald (fighter) Glicko2: 1970.31
+Fighter: David Branch (fighter)     Glicko2: 1969.15
+Fighter: Logan Storley              Glicko2: 1969.08
+Fighter: Douglas Lima               Glicko2: 1967.72
+Fighter: Shane Carwin               Glicko2: 1966.65
+Fighter: Michael Bisping            Glicko2: 1966.57
+Fighter: Alexander Gustafsson       Glicko2: 1966.46
+Fighter: Jay Hieron                 Glicko2: 1966.25
+Fighter: Albert Tumenov             Glicko2: 1965.22
+Fighter: Kenny Florian              Glicko2: 1963.65
+Fighter: Giga Chikadze              Glicko2: 1963.15
+Fighter: Derrick Lewis (fighter)    Glicko2: 1963.03
+Fighter: Lorenz Larkin              Glicko2: 1961.52
+Fighter: Jared Gordon               Glicko2: 1961.38
+Fighter: Thales Leites              Glicko2: 1961.36
+Fighter: Tyron Woodley              Glicko2: 1959.43
+Fighter: Volkan Oezdemir            Glicko2: 1959.41
+Fighter: Matt Hughes (fighter)      Glicko2: 1959.19
+Fighter: Josh Barnett               Glicko2: 1958.53
+Fighter: Christian Uflacker         Glicko2: 1958.26
+Fighter: Lerone Murphy              Glicko2: 1957.39
+Fighter: Edmen Shahbazyan           Glicko2: 1956.56
+Fighter: Emmanuel Sanchez           Glicko2: 1956.19
+Fighter: Gavin Tucker               Glicko2: 1955.58
+Fighter: Cub Swanson                Glicko2: 1955.56
+Fighter: Joshua Pacio               Glicko2: 1954.01
+Fighter: Joaquim Silva (fighter)    Glicko2: 1953.82
+Fighter: Daniel Puder               Glicko2: 1953.66
+Fighter: Zak Cummings               Glicko2: 1953.44
+Fighter: Punahele Soriano           Glicko2: 1952.46
+Fighter: Paul Sass                  Glicko2: 1952.4
+Fighter: Elizeu Zaleski dos Santos  Glicko2: 1952.25
+Fighter: Alexander Shlemenko        Glicko2: 1951.64
+Fighter: Ray Borg                   Glicko2: 1951.45
+Fighter: Shane Del Rosario          Glicko2: 1950.74
+Fighter: Shane del Rosario          Glicko2: 1950.74
+Fighter: Lyman Good                 Glicko2: 1950.41
+Fighter: Tai Tuivasa                Glicko2: 1950.4
+Fighter: Cosmo Alexandre            Glicko2: 1950.31
+Fighter: Rory MacDonald (fighter)   Glicko2: 1950.14
+Fighter: Bryan Baker (fighter)      Glicko2: 1949.9
+Fighter: Gunnar Nelson (fighter)    Glicko2: 1949.79
+Fighter: Olivier Aubin-Mercier      Glicko2: 1949.73
+Fighter: Omari Akhmedov             Glicko2: 1949.56
+Fighter: Tim Kennedy (fighter)      Glicko2: 1949.54
+Fighter: Jimmy Crute                Glicko2: 1947.94
+Fighter: Thomas Almeida             Glicko2: 1947.91
+Fighter: Merab Dvalishvili          Glicko2: 1947.69
+Fighter: John Moraga                Glicko2: 1947.48
+Fighter: Mateusz Gamrot             Glicko2: 1946.82
+Fighter: Anthony Pettis             Glicko2: 1946.81
+Fighter: Marcin Tybura              Glicko2: 1946.24
+Fighter: Giva Santana               Glicko2: 1945.91
+Fighter: Givanildo Santana          Glicko2: 1945.91
+Fighter: Sage Northcutt             Glicko2: 1944.18
+Fighter: Ryan LaFlare               Glicko2: 1944.06
+Fighter: Johny Hendricks            Glicko2: 1942.95
+Fighter: Augusto Sakai              Glicko2: 1942.85
+Fighter: Stephen Thompson (fighter) Glicko2: 1942.66
+Fighter: Wagnney Fabiano            Glicko2: 1942.55
+Fighter: Daniel Mason-Straus        Glicko2: 1942.39
+Fighter: André Muniz                Glicko2: 1942.29
+Fighter: Pat Curran (fighter)       Glicko2: 1941.92
+Fighter: Kai Asakura                Glicko2: 1941.89
+Fighter: Marcin Held                Glicko2: 1941.7
+Fighter: Curtis Blaydes             Glicko2: 1941.32
+Fighter: Kelvin Gastelum            Glicko2: 1941.32
+Fighter: Brent Primus               Glicko2: 1941.21
+Fighter: Alexey Kunchenko           Glicko2: 1940.78
+Fighter: Montel Jackson             Glicko2: 1940.49
+Fighter: Soa Palelei                Glicko2: 1939.94
+Fighter: Jake Matthews (fighter)    Glicko2: 1939.63
+Fighter: Sodiq Yusuff               Glicko2: 1939.43
+Fighter: Marvin Vettori             Glicko2: 1938.69
+Fighter: Thiago Santos (middleweight fighter) Glicko2: 1938.47
+Fighter: Mamed Khalidov             Glicko2: 1938.45
+Fighter: Darren Till                Glicko2: 1937.38
+Fighter: Blagoi Ivanov              Glicko2: 1936.86
+Fighter: Blagoy Ivanov              Glicko2: 1936.86
+Fighter: Brandon Moreno             Glicko2: 1936.84
+Fighter: Sergey Spivak              Glicko2: 1936.75
+Fighter: Douglas Silva de Andrade   Glicko2: 1936.27
+Fighter: Alexander Hernandez        Glicko2: 1935.98
+Fighter: Magomed Mustafaev          Glicko2: 1935.67
+Fighter: Julian Marquez             Glicko2: 1935.34
+Fighter: Leandro Higo               Glicko2: 1935.26
+Fighter: Márcio Cruz                Glicko2: 1935.19
+Fighter: Carlos Felipe              Glicko2: 1934.49
+Fighter: Matheus Nicolau            Glicko2: 1934.06
+Fighter: Ruslan Magomedov           Glicko2: 1933.95
+Fighter: Renan Barão                Glicko2: 1933.77
+Fighter: Iuri Alcântara             Glicko2: 1933.07
+Fighter: Drakkar Klose              Glicko2: 1932.17
+Fighter: Karlos Vemola              Glicko2: 1932.14
+Fighter: Karlos Vémola              Glicko2: 1932.14
+Fighter: Darrion Caldwell           Glicko2: 1931.94
+Fighter: Hacran Dias                Glicko2: 1931.81
+Fighter: Alexander Volkov (fighter) Glicko2: 1931.54
+Fighter: Ryan Hall (grappler)       Glicko2: 1931.46
+Fighter: Li Jingliang               Glicko2: 1931.21
+Fighter: Eduardo Dantas             Glicko2: 1931.21
+Fighter: Brian Olsen                Glicko2: 1930.59
+Fighter: Naoki Inoue                Glicko2: 1930.55
+Fighter: James Krause (fighter)     Glicko2: 1929.79
+Fighter: Magomedrasul Khasbulaev    Glicko2: 1929.64
+Fighter: Joel Álvarez               Glicko2: 1929.62
+Fighter: Vladimir Mineev            Glicko2: 1929.06
+Fighter: Alexander Sarnavskiy       Glicko2: 1928.96
+Fighter: Brian Bowles (fighter)     Glicko2: 1928.51
+Fighter: Kron Gracie                Glicko2: 1928.15
+Fighter: Paul Felder                Glicko2: 1927.75
+Fighter: Vitor Ribeiro              Glicko2: 1926.39
+Fighter: Vítor Ribeiro              Glicko2: 1926.39
+Fighter: Wilson Reis                Glicko2: 1926.25
+Fighter: Jörgen Kruth               Glicko2: 1926.0
+Fighter: Fabrício Werdum            Glicko2: 1925.47
+Fighter: Tom Breese                 Glicko2: 1925.35
+Fighter: Tomasz Narkun              Glicko2: 1925.13
+Fighter: Levan Makashvili           Glicko2: 1924.54
+Fighter: Tom Aspinall               Glicko2: 1923.75
+Fighter: Vladimir Matyushenko       Glicko2: 1923.25
+Fighter: Diego Sanchez              Glicko2: 1923.21
+Fighter: Bobby Lashley              Glicko2: 1922.91
+Fighter: Mark Muñoz                 Glicko2: 1921.14
+Fighter: Warlley Alves              Glicko2: 1919.98
+Fighter: Mads Burnell               Glicko2: 1919.93
+Fighter: Daniel Weichel             Glicko2: 1919.65
+Fighter: Timur Valiev               Glicko2: 1919.61
+Fighter: Rick Story                 Glicko2: 1919.55
+Fighter: Michinori Tanaka           Glicko2: 1919.16
+Fighter: Kennedy Nzechukwu          Glicko2: 1918.64
+Fighter: Claude Patrick             Glicko2: 1917.46
+Fighter: Jason Reinhardt            Glicko2: 1917.09
+Fighter: Mairbek Taisumov           Glicko2: 1916.85
+Fighter: David Teymur               Glicko2: 1916.54
+Fighter: Mikkel Parlo               Glicko2: 1916.54
+Fighter: Vicente Luque              Glicko2: 1916.32
+Fighter: Desmond Green              Glicko2: 1915.94
+Fighter: Marlon Moraes              Glicko2: 1915.83
+Fighter: Cody Stamann               Glicko2: 1915.54
+Fighter: Erik Koch                  Glicko2: 1915.31
+Fighter: Szymon Kołecki             Glicko2: 1915.1
+Fighter: Scott Askham               Glicko2: 1915.02
+Fighter: Ryan Jimmo                 Glicko2: 1914.47
+Fighter: Joe Warren (fighter)       Glicko2: 1914.36
+Fighter: Rich Franklin              Glicko2: 1913.96
+Fighter: Taylor Lapilus             Glicko2: 1913.75
+Fighter: Miguel Torres (fighter)    Glicko2: 1913.6
+Fighter: Rob Wilkinson              Glicko2: 1913.39
+Fighter: Rafael Silva (fighter)     Glicko2: 1912.94
+Fighter: Jim Miller (fighter)       Glicko2: 1912.26
+Fighter: Herbert Burns              Glicko2: 1912.14
+Fighter: Alex da Silva Coelho       Glicko2: 1910.44
+Fighter: Bubba Jenkins              Glicko2: 1910.28
+Fighter: Rasul Mirzaev              Glicko2: 1909.78
+Fighter: Anthony Rocco Martin       Glicko2: 1909.78
+Fighter: Robbie Lawler              Glicko2: 1909.56
+Fighter: Al Iaquinta                Glicko2: 1908.97
+Fighter: Shamil Zavurov             Glicko2: 1908.91
+Fighter: Corey Anderson (fighter)   Glicko2: 1908.89
+Fighter: Martin Kampmann            Glicko2: 1908.75
+Fighter: Jamahal Hill               Glicko2: 1907.92
+Fighter: Sultan Aliev               Glicko2: 1907.92
+Fighter: Quinn Mulhern              Glicko2: 1907.9
+Fighter: Jacob Volkmann             Glicko2: 1907.54
+Fighter: Danny Roberts (fighter)    Glicko2: 1907.29
+Fighter: Neiman Gracie              Glicko2: 1907.16
+Fighter: Rogério Bontorin           Glicko2: 1906.98
+Fighter: Omar Morales (fighter)     Glicko2: 1906.82
+Fighter: Alex Perez (fighter)       Glicko2: 1906.18
+Fighter: Paul Craig (fighter)       Glicko2: 1906.0
+Fighter: Dan Hooker                 Glicko2: 1905.42
+Fighter: Ernest Chavez (fighter)    Glicko2: 1905.12
+Fighter: Amar Suloev                Glicko2: 1903.97
+Fighter: Damon Jackson              Glicko2: 1902.58
+Fighter: Rosen Dimitrov             Glicko2: 1902.45
+Fighter: Tony Martin (fighter)      Glicko2: 1902.38
+Fighter: Ismail Naurdiev            Glicko2: 1901.98
+Fighter: Roger Gracie               Glicko2: 1901.61
+Fighter: Casey Kenney               Glicko2: 1901.5
+Fighter: Luis Santos (fighter)      Glicko2: 1901.38
+Fighter: Nate Quarry                Glicko2: 1901.26
+Fighter: Nathan Quarry              Glicko2: 1901.26
+Fighter: Deividas Taurosevicius     Glicko2: 1901.1
+Fighter: Deividas Taurosevičius     Glicko2: 1901.1
+Fighter: Josh Thomson               Glicko2: 1901.02
+Fighter: Tom Duquesnoy              Glicko2: 1900.91
+Fighter: Jared Cannonier            Glicko2: 1900.79
+Fighter: Evan Dunham                Glicko2: 1900.55
+Fighter: Henry Corrales             Glicko2: 1900.18
+Fighter: Trevin Giles               Glicko2: 1900.04
+Fighter: Hakeem Dawodu              Glicko2: 1899.49
+Fighter: Nate Diaz                  Glicko2: 1899.01
+Fighter: Chris Gruetzemacher        Glicko2: 1898.61
+Fighter: John Makdessi              Glicko2: 1898.46
+Fighter: John Salter                Glicko2: 1898.38
+Fighter: Shamil Abdurakhimov        Glicko2: 1897.67
+Fighter: Nazareno Malegarie         Glicko2: 1896.36
+Fighter: Alan Patrick (fighter)     Glicko2: 1895.89
+Fighter: Andrew Craig               Glicko2: 1895.84
+Fighter: Ok Rae Yoon                Glicko2: 1895.39
+Fighter: Leonardo Santos (fighter)  Glicko2: 1895.3
+Fighter: David Dvořák               Glicko2: 1895.09
+Fighter: Nikita Krylov              Glicko2: 1894.33
+Fighter: Vyacheslav Vasilevsky      Glicko2: 1894.32
+Fighter: Davi Ramos                 Glicko2: 1893.63
+Fighter: Costas Philippou           Glicko2: 1893.18
+Fighter: Travis Fulton              Glicko2: 1892.66
+Fighter: Jimi Manuwa                Glicko2: 1892.46
+Fighter: Andre Fili                 Glicko2: 1892.2
+Fighter: Gleison Tibau              Glicko2: 1891.89
+Fighter: Daniel Kelly (judoka)      Glicko2: 1891.24
+Fighter: Justin Willis (martial artist) Glicko2: 1891.18
+Fighter: Alex Morono                Glicko2: 1890.61
+Fighter: Héctor Lombard             Glicko2: 1890.31
+Fighter: Augusto Montaño            Glicko2: 1890.01
+Fighter: Bruno Santos               Glicko2: 1889.89
+Fighter: Ryan Ford (fighter)        Glicko2: 1889.84
+Fighter: Dustin Ortiz               Glicko2: 1889.57
+Fighter: Hector Lombard             Glicko2: 1889.29
+Fighter: Luiz Eduardo Garagorri     Glicko2: 1888.62
+Fighter: Jason Black                Glicko2: 1888.39
+Fighter: Cheick Kongo               Glicko2: 1888.18
+Fighter: Jason High                 Glicko2: 1888.09
+Fighter: John Lineker               Glicko2: 1887.54
+Fighter: Richard Crunkilton         Glicko2: 1887.14
+Fighter: Tyson Griffin              Glicko2: 1886.86
+Fighter: Billy Quarantillo          Glicko2: 1886.84
+Fighter: Joe Soto                   Glicko2: 1886.74
+Fighter: Mike Brown (fighter)       Glicko2: 1886.34
+Fighter: Murad Zeinulabidov         Glicko2: 1886.31
+Fighter: Aleksander Emelianenko     Glicko2: 1886.06
+Fighter: Alexander Emelianenko      Glicko2: 1886.06
+Fighter: Mark Bocek                 Glicko2: 1885.6
+Fighter: Zach Micklewright          Glicko2: 1885.17
+Fighter: Tim Sylvia                 Glicko2: 1884.99
+Fighter: Marlon Sandro              Glicko2: 1884.85
+Fighter: Zubaira Tukhugov           Glicko2: 1884.63
+Fighter: Justin Wren                Glicko2: 1884.24
+Fighter: Adlan Amagov               Glicko2: 1884.03
+Fighter: Alonzo Menifield           Glicko2: 1883.75
+Fighter: Tatsuya Kawajiri           Glicko2: 1883.49
+Fighter: Joe Lauzon                 Glicko2: 1882.98
+Fighter: Travis Browne              Glicko2: 1882.59
+Fighter: Anthony Smith (mixed martial artist) Glicko2: 1882.52
+Fighter: Jason Sampson              Glicko2: 1882.38
+Fighter: Rick Glenn                 Glicko2: 1882.24
+Fighter: Ricardo Tirloni            Glicko2: 1881.73
+Fighter: Raul Castillo              Glicko2: 1881.12
+Fighter: Cathal Pendred             Glicko2: 1881.0
+Fighter: Ian Heinisch               Glicko2: 1880.86
+Fighter: Mike Russow                Glicko2: 1880.56
+Fighter: Yushin Okami               Glicko2: 1880.0
+Fighter: Jason Knight (fighter)     Glicko2: 1879.87
+Fighter: Jeremy Spoon               Glicko2: 1879.65
+Fighter: Karl Albrektsson           Glicko2: 1879.51
+Fighter: Pascal Krauss              Glicko2: 1879.44
+Fighter: Roberto Soldić             Glicko2: 1879.42
+Fighter: Nick Diaz                  Glicko2: 1878.92
+Fighter: Jeremy Williams (boxer)    Glicko2: 1878.81
+Fighter: Charles Rosa               Glicko2: 1878.45
+Fighter: Andy Murad                 Glicko2: 1878.44
+Fighter: Shane Roller               Glicko2: 1878.26
+Fighter: Chris Tuchscherer          Glicko2: 1878.25
+Fighter: Danny Castillo             Glicko2: 1877.98
+Fighter: Zhang Tiequan              Glicko2: 1877.36
+Fighter: Billy Evangelista          Glicko2: 1877.25
+Fighter: Jason Brilz                Glicko2: 1877.08
+Fighter: Jordan Parsons             Glicko2: 1876.8
+Fighter: Jake O'Brien               Glicko2: 1876.76
+Fighter: Geoff Neal                 Glicko2: 1876.75
+Fighter: Norman Parke               Glicko2: 1876.23
+Fighter: Diego Nunes (fighter)      Glicko2: 1876.2
+Fighter: Spencer Fisher             Glicko2: 1876.17
+Fighter: Felipe Colares             Glicko2: 1875.89
+Fighter: Tim Boetsch                Glicko2: 1875.27
+Fighter: Terry Etim                 Glicko2: 1875.23
+Fighter: Steve Carl                 Glicko2: 1874.87
+Fighter: Damir Hadzovic             Glicko2: 1874.81
+Fighter: Damir Hadžović             Glicko2: 1874.81
+Fighter: Paddy Holohan              Glicko2: 1874.68
+Fighter: Patrick Holohan            Glicko2: 1874.68
+Fighter: Jon Madsen                 Glicko2: 1874.44
+Fighter: Kevin Aguilar              Glicko2: 1874.31
+Fighter: Tamdan McCrory             Glicko2: 1874.15
+Fighter: Rani Yahya                 Glicko2: 1873.78
+Fighter: Sean Woodson               Glicko2: 1873.74
+Fighter: Chad Griggs                Glicko2: 1873.72
+Fighter: Robert Drysdale            Glicko2: 1873.52
+Fighter: David Terrell (fighter)    Glicko2: 1873.37
+Fighter: Bobby Green (fighter)      Glicko2: 1873.19
+Fighter: Michail Tsarev             Glicko2: 1872.52
+Fighter: Cláudio Silva              Glicko2: 1872.06
+Fighter: Sam Oropeza                Glicko2: 1870.76
+Fighter: Jordan Radev               Glicko2: 1870.63
+Fighter: Chad Laprise               Glicko2: 1870.62
+Fighter: Kwan Ho Kwak               Glicko2: 1870.52
+Fighter: Jamie Mullarkey            Glicko2: 1870.32
+Fighter: Eryk Anders                Glicko2: 1870.02
+Fighter: Eric Wisely                Glicko2: 1868.95
+Fighter: Rafael Carvalho            Glicko2: 1868.83
+Fighter: Ovince Saint Preux         Glicko2: 1868.78
+Fighter: Ovince St. Preux           Glicko2: 1868.78
+Fighter: Jake Shields               Glicko2: 1868.45
+Fighter: James Vick                 Glicko2: 1867.88
+Fighter: Kevin Holland              Glicko2: 1864.69
+Fighter: Attila Vegh (fighter)      Glicko2: 1864.67
+Fighter: Attila Végh                Glicko2: 1864.67
+Fighter: Leonardo Leite             Glicko2: 1864.32
+Fighter: Magnus Cedenblad           Glicko2: 1864.18
+Fighter: Drew Dober                 Glicko2: 1864.18
+Fighter: Jeremy Stephens            Glicko2: 1864.06
+Fighter: Alexandre Bezerra          Glicko2: 1864.05
+Fighter: Liam McGeary               Glicko2: 1864.04
+Fighter: Uriah Hall                 Glicko2: 1863.73
+Fighter: Nik Lentz                  Glicko2: 1863.45
+Fighter: Phil De Fries              Glicko2: 1863.29
+Fighter: Philip De Fries            Glicko2: 1863.29
+Fighter: Yoshitaka Naito            Glicko2: 1862.68
+Fighter: Brandon Bender             Glicko2: 1862.66
+Fighter: Damian Grabowski           Glicko2: 1862.23
+Fighter: Louis Smolka               Glicko2: 1861.91
+Fighter: Takashi Sato               Glicko2: 1861.76
+Fighter: Luke Sanders               Glicko2: 1861.6
+Fighter: Mike Whitehead             Glicko2: 1861.42
+Fighter: Josh Koscheck              Glicko2: 1861.05
+Fighter: Dongi Yang                 Glicko2: 1861.02
+Fighter: Brendan Schaub             Glicko2: 1860.82
+Fighter: Dalcha Lungiambula         Glicko2: 1860.6
+Fighter: Darko Stošić               Glicko2: 1860.55
+Fighter: Lucas Martins              Glicko2: 1860.32
+Fighter: Matt Schnell               Glicko2: 1859.86
+Fighter: Yancy Medeiros             Glicko2: 1859.66
+Fighter: Matt Hamill                Glicko2: 1859.49
+Fighter: Ali Bagautinov             Glicko2: 1859.48
+Fighter: Brent Weedman              Glicko2: 1859.34
+Fighter: Dennis Bermudez            Glicko2: 1859.33
+Fighter: Dave Herman (fighter)      Glicko2: 1858.7
+Fighter: Will Ribeiro               Glicko2: 1858.65
+Fighter: Nick Ring                  Glicko2: 1858.1
+Fighter: Mike Swick                 Glicko2: 1857.99
+Fighter: Joe Solecki                Glicko2: 1857.82
+Fighter: Juan Espino                Glicko2: 1857.77
+Fighter: Jason Saggo                Glicko2: 1856.63
+Fighter: Justin Wilcox (martial arts) Glicko2: 1856.51
+Fighter: Andre Galvao               Glicko2: 1856.49
+Fighter: André Galvão               Glicko2: 1856.49
+Fighter: Jimy Hettes                Glicko2: 1856.41
+Fighter: Alan Jouban                Glicko2: 1856.36
+Fighter: George Sotiropoulos        Glicko2: 1856.26
+Fighter: Adam Wieczorek             Glicko2: 1856.19
+Fighter: Nasrat Haqparast           Glicko2: 1856.04
+Fighter: Timothy Johnson (fighter)  Glicko2: 1855.37
+Fighter: C.B. Dollaway              Glicko2: 1855.14
+Fighter: CB Dollaway                Glicko2: 1855.14
+Fighter: Yang Dongi                 Glicko2: 1855.06
+Fighter: Phil Hawes                 Glicko2: 1855.02
+Fighter: Gerald Harris (fighter)    Glicko2: 1854.97
+Fighter: Jonathan Martinez          Glicko2: 1854.86
+Fighter: Brandon Halsey             Glicko2: 1854.83
+Fighter: Pablo Garza (fighter)      Glicko2: 1854.13
+Fighter: Duško Todorović            Glicko2: 1853.63
+Fighter: Scott Holtzman             Glicko2: 1853.41
+Fighter: Roberto Sanchez (fighter)  Glicko2: 1853.36
+Fighter: Chance Rencountre          Glicko2: 1853.26
+Fighter: Akira Kikuchi              Glicko2: 1853.26
+Fighter: Clay Guida                 Glicko2: 1852.78
+Fighter: Matt Veach                 Glicko2: 1852.73
+Fighter: Andrei Arlovski            Glicko2: 1852.73
+Fighter: Brad Katona                Glicko2: 1852.47
+Fighter: Joe Doerksen               Glicko2: 1852.28
+Fighter: Dan Hardy                  Glicko2: 1851.68
+Fighter: Alejandro Pérez (fighter)  Glicko2: 1851.23
+Fighter: Brian Stann                Glicko2: 1851.05
+Fighter: Jason Fischer (fighter)    Glicko2: 1850.22
+Fighter: Jerrod Sanders             Glicko2: 1849.94
+Fighter: Yan Cabral                 Glicko2: 1849.72
+Fighter: David Vieira (fighter)     Glicko2: 1849.41
+Fighter: Bryan Caraway              Glicko2: 1849.26
+Fighter: Wes Shivers                Glicko2: 1849.16
+Fighter: Doo Ho Choi                Glicko2: 1849.09
+Fighter: Mikuru Asakura             Glicko2: 1848.84
+Fighter: Fabricio Guerreiro         Glicko2: 1848.6
+Fighter: Fabrício Guerreiro         Glicko2: 1848.6
+Fighter: Robert Whiteford           Glicko2: 1848.53
+Fighter: Jorge Santiago             Glicko2: 1848.48
+Fighter: John Cholish               Glicko2: 1848.32
+Fighter: Ray Sloan                  Glicko2: 1847.15
+Fighter: Andrew Holbrook            Glicko2: 1847.1
+Fighter: Tenshin Nasukawa           Glicko2: 1847.02
+Fighter: Hector Sandoval            Glicko2: 1846.85
+Fighter: Ben Reiter                 Glicko2: 1846.78
+Fighter: Godofredo Pepey            Glicko2: 1846.73
+Fighter: Nate Landwehr              Glicko2: 1846.5
+Fighter: Choi Doo-Ho                Glicko2: 1846.19
+Fighter: Patrick Côté (fighter)     Glicko2: 1846.02
+Fighter: Linton Vassell             Glicko2: 1844.94
+Fighter: Jacob Noe                  Glicko2: 1844.89
+Fighter: Bartosz Fabiński           Glicko2: 1844.67
+Fighter: Chris Cariaso              Glicko2: 1844.58
+Fighter: Nate Loughran              Glicko2: 1844.55
+Fighter: Mike Pierce                Glicko2: 1844.39
+Fighter: Renato Sobral              Glicko2: 1844.35
+Fighter: Marlon Vera (fighter)      Glicko2: 1844.0
+Fighter: Travis Marx                Glicko2: 1843.78
+Fighter: Marc Diakiese              Glicko2: 1843.73
+Fighter: Perry Filkins              Glicko2: 1843.7
+Fighter: Jon Tuck                   Glicko2: 1843.63
+Fighter: Chris Gonzalez             Glicko2: 1843.52
+Fighter: Karl Roberson              Glicko2: 1843.44
+Fighter: Dwight Grant               Glicko2: 1843.39
+Fighter: Vagner Rocha               Glicko2: 1843.36
+Fighter: Chris Daukaus              Glicko2: 1843.31
+Fighter: Christian Morecraft        Glicko2: 1843.28
+Fighter: Josh Samman                Glicko2: 1843.16
+Fighter: Fares Ziam                 Glicko2: 1843.12
+Fighter: Justin Scoggins            Glicko2: 1842.8
+Fighter: Cung Le                    Glicko2: 1842.68
+Fighter: Viktor Pešta               Glicko2: 1842.52
+Fighter: Matt Grice                 Glicko2: 1842.24
+Fighter: David Mitchell (fighter)   Glicko2: 1842.07
+Fighter: John Macapá                Glicko2: 1842.02
+Fighter: John Teixeira              Glicko2: 1842.02
+Fighter: Derek Anderson (fighter)   Glicko2: 1841.79
+Fighter: Wellington Turman          Glicko2: 1841.46
+Fighter: Kevin Souza                Glicko2: 1841.41
+Fighter: John Dodson (fighter)      Glicko2: 1841.41
+Fighter: Manel Kape                 Glicko2: 1841.17
+Fighter: Niko Price                 Glicko2: 1840.84
+Fighter: Russell Doane              Glicko2: 1840.59
+Fighter: Zak Ottow                  Glicko2: 1840.52
+Fighter: Da Un Jung                 Glicko2: 1840.48
+Fighter: Nordine Taleb              Glicko2: 1840.47
+Fighter: Francisco Treviño          Glicko2: 1840.41
+Fighter: Willamy Freire             Glicko2: 1839.89
+Fighter: Adam Piccolotti            Glicko2: 1839.18
+Fighter: Antônio Rogério Nogueira   Glicko2: 1839.08
+Fighter: Thibault Gouti             Glicko2: 1839.0
+Fighter: Viktor Nemkov              Glicko2: 1838.78
+Fighter: Devonte Smith              Glicko2: 1838.36
+Fighter: Antonio McKee              Glicko2: 1838.14
+Fighter: Matt Lindland              Glicko2: 1838.12
+Fighter: Siyar Bahadurzada          Glicko2: 1838.11
+Fighter: Dustin Kimura              Glicko2: 1837.99
+Fighter: Luan Chagas                Glicko2: 1837.92
+Fighter: Nick Agallar               Glicko2: 1837.88
+Fighter: Piotr Hallmann             Glicko2: 1837.73
+Fighter: Martin Brown (mixed martial artist) Glicko2: 1837.5
+Fighter: Jason Butcher              Glicko2: 1837.19
+Fighter: Gerald Meerschaert         Glicko2: 1837.17
+Fighter: Raphael Davis              Glicko2: 1836.97
+Fighter: Masakatsu Ueda             Glicko2: 1836.36
+Fighter: Tarec Saffiedine           Glicko2: 1836.13
+Fighter: Forrest Griffin            Glicko2: 1835.96
+Fighter: Steve Bossé                Glicko2: 1835.83
+Fighter: Thiago Moisés              Glicko2: 1835.76
+Fighter: David Rickels              Glicko2: 1835.74
+Fighter: Takanori Gomi              Glicko2: 1835.73
+Fighter: J.J. Ambrose               Glicko2: 1834.92
+Fighter: L.C. Davis                 Glicko2: 1834.48
+Fighter: LC Davis                   Glicko2: 1834.48
+Fighter: Jonathan Meunier           Glicko2: 1834.37
+Fighter: Mitch Gagnon               Glicko2: 1834.11
+Fighter: Paul Daley                 Glicko2: 1834.11
+Fighter: Ryan Spann                 Glicko2: 1833.94
+Fighter: Antônio Carlos Júnior      Glicko2: 1833.93
+Fighter: Chris Camozzi              Glicko2: 1833.69
+Fighter: Aaron Simpson (fighter)    Glicko2: 1833.55
+Fighter: Gray Maynard               Glicko2: 1833.5
+Fighter: Sergio Moraes              Glicko2: 1833.36
+Fighter: Sérgio Moraes              Glicko2: 1833.36
+Fighter: Tom DeBlass                Glicko2: 1833.07
+Fighter: Bart Palaszewski           Glicko2: 1832.16
+Fighter: Chris Gutiérrez            Glicko2: 1832.14
+Fighter: Klidson Abreu              Glicko2: 1831.82
+Fighter: Jim Wallhead               Glicko2: 1831.8
+Fighter: Nick Denis                 Glicko2: 1831.03
+Fighter: Abdul Razak Alhassan       Glicko2: 1831.03
+Fighter: Ryan Couture               Glicko2: 1830.98
+Fighter: Thiago Alves (fighter)     Glicko2: 1830.17
+Fighter: Mike Richman               Glicko2: 1830.07
+Fighter: Raul Amaya                 Glicko2: 1830.04
+Fighter: Ricardo Arona              Glicko2: 1830.01
+Fighter: Kurt Pellegrino            Glicko2: 1829.87
+Fighter: Makwan Amirkhani           Glicko2: 1829.77
+Fighter: Francis Carmont            Glicko2: 1829.38
+Fighter: Geane Herrera              Glicko2: 1829.01
+Fighter: Nick Newell                Glicko2: 1828.67
+Fighter: Mike Corey                 Glicko2: 1828.5
+Fighter: Mike Pyle (fighter)        Glicko2: 1828.44
+Fighter: Teemu Packalen             Glicko2: 1828.38
+Fighter: Jeremy Horn                Glicko2: 1828.0
+Fighter: Jason Miller (fighter)     Glicko2: 1827.91
+Fighter: Jorge Rivera (fighter)     Glicko2: 1827.49
+Fighter: David Baron (fighter)      Glicko2: 1827.45
+Fighter: Dakota Cochrane            Glicko2: 1827.27
+Fighter: Tim Credeur                Glicko2: 1827.14
+Fighter: Georgi Karakhanyan         Glicko2: 1826.84
+Fighter: Bryan Barberena            Glicko2: 1825.56
+Fighter: Stefan Struve              Glicko2: 1825.47
+Fighter: Jordan Mein                Glicko2: 1825.45
+Fighter: Alex Huddleston            Glicko2: 1825.4
+Fighter: Paul Kelly (fighter)       Glicko2: 1825.19
+Fighter: Rob McCullough             Glicko2: 1824.79
+Fighter: Ricardo Romero (fighter)   Glicko2: 1824.62
+Fighter: Nico Musoke                Glicko2: 1824.27
+Fighter: Kensuke Sasaki             Glicko2: 1824.26
+Fighter: Deron Winn                 Glicko2: 1824.2
+Fighter: Keita Nakamura             Glicko2: 1823.95
+Fighter: Tim Means                  Glicko2: 1823.95
+Fighter: Jameel Massouh             Glicko2: 1823.82
+Fighter: Jake Ellenberger           Glicko2: 1823.69
+Fighter: Trevor Prangley            Glicko2: 1823.6
+Fighter: Joe Ellenberger            Glicko2: 1823.51
+Fighter: Makhmud Muradov            Glicko2: 1823.36
+Fighter: Enrique Barzola            Glicko2: 1823.15
+Fighter: Will Campuzano             Glicko2: 1823.01
+Fighter: Tyler Stinson              Glicko2: 1822.76
+Fighter: Michał Oleksiejczuk        Glicko2: 1822.46
+Fighter: Marcos Rogério de Lima     Glicko2: 1822.25
+Fighter: Dennis Siver               Glicko2: 1822.2
+Fighter: Sako Chivitchian           Glicko2: 1821.98
+Fighter: Stanislav Nedkov           Glicko2: 1821.8
+Fighter: Kevin Belingon             Glicko2: 1821.58
+Fighter: Kin Moy                    Glicko2: 1821.21
+Fighter: Misha Cirkunov             Glicko2: 1821.14
+Fighter: Chris Fishgold             Glicko2: 1821.11
+Fighter: Brennan Ward               Glicko2: 1820.83
+Fighter: Alan Belcher               Glicko2: 1820.73
+Fighter: Dan Cramer                 Glicko2: 1820.58
+Fighter: Dan Lauzon                 Glicko2: 1820.39
+Fighter: James Head (fighter)       Glicko2: 1820.28
+Fighter: Jesse Lennox               Glicko2: 1820.27
+Fighter: Joey Villasenor            Glicko2: 1820.17
+Fighter: Joey Villaseñor            Glicko2: 1820.17
+Fighter: Pawel Pawlak               Glicko2: 1819.9
+Fighter: Timofey Nastyukhin         Glicko2: 1819.86
+Fighter: Court McGee                Glicko2: 1819.31
+Fighter: Hiromasa Ougikubo          Glicko2: 1819.25
+Fighter: Brian Melancon             Glicko2: 1819.0
+Fighter: Song Kenan                 Glicko2: 1818.87
+Fighter: Mike Ricci (fighter)       Glicko2: 1818.57
+Fighter: Ivan Jorge                 Glicko2: 1818.54
+Fighter: Kenan Song                 Glicko2: 1818.44
+Fighter: Ian McCall (fighter)       Glicko2: 1818.08
+Fighter: Kuniyoshi Hironaka         Glicko2: 1818.04
+Fighter: Sam Alvey                  Glicko2: 1818.03
+Fighter: Ed Ruth                    Glicko2: 1817.89
+Fighter: Zach Makovsky              Glicko2: 1817.48
+Fighter: Jesse Taylor               Glicko2: 1817.42
+Fighter: Devin Clark (fighter)      Glicko2: 1817.37
+Fighter: Ryan Janes (fighter)       Glicko2: 1817.29
+Fighter: Bubba McDaniel             Glicko2: 1816.9
+Fighter: Luke Zachrich              Glicko2: 1816.67
+Fighter: Ricardo Almeida            Glicko2: 1816.37
+Fighter: Chris Kelades              Glicko2: 1816.32
+Fighter: Tim Carpenter (fighter)    Glicko2: 1816.25
+Fighter: Jadamba Narantungalag      Glicko2: 1815.89
+Fighter: Josh Grispi                Glicko2: 1815.76
+Fighter: Ashkan Mokhtarian          Glicko2: 1815.66
+Fighter: Danillo Villefort          Glicko2: 1815.12
+Fighter: Paulo Filho                Glicko2: 1815.03
+Fighter: Tony Gravely               Glicko2: 1814.69
+Fighter: Brandon Visher             Glicko2: 1814.59
+Fighter: Marcin Prachnio            Glicko2: 1814.48
+Fighter: Chris Horodecki            Glicko2: 1814.27
+Fighter: E.J. Brooks                Glicko2: 1814.22
+Fighter: Christos Giagos            Glicko2: 1813.32
+Fighter: Riki Fukuda                Glicko2: 1813.25
+Fighter: Ben Saunders (fighter)     Glicko2: 1812.8
+Fighter: Robert McDaniel            Glicko2: 1812.65
+Fighter: Nate Marquardt             Glicko2: 1812.62
+Fighter: Joaquin Buckley            Glicko2: 1812.54
+Fighter: Julian Erosa               Glicko2: 1812.31
+Fighter: Ryan Jensen (fighter)      Glicko2: 1812.12
+Fighter: Ross Pearson               Glicko2: 1812.07
+Fighter: Eric Schambari             Glicko2: 1811.93
+Fighter: K.J. Noons                 Glicko2: 1811.9
+Fighter: KJ Noons                   Glicko2: 1811.9
+Fighter: Karl James Noons           Glicko2: 1811.9
+Fighter: Danaa Batgerel             Glicko2: 1811.83
+Fighter: Matt Ricehouse             Glicko2: 1811.47
+Fighter: Jim York (fighter)         Glicko2: 1811.4
+Fighter: Sean Pierson               Glicko2: 1811.3
+Fighter: Ivan Menjivar              Glicko2: 1810.99
+Fighter: Shawn Jordan               Glicko2: 1810.83
+Fighter: Forrest Petz               Glicko2: 1810.68
+Fighter: Vitor Vianna               Glicko2: 1810.64
+Fighter: Scott Cleve                Glicko2: 1810.23
+Fighter: Andrew Sanchez             Glicko2: 1809.87
+Fighter: Dan Hornbuckle             Glicko2: 1809.28
+Fighter: Alex Cook (fighter)        Glicko2: 1809.07
+Fighter: Joe Proctor                Glicko2: 1809.03
+Fighter: Markus Perez               Glicko2: 1808.77
+Fighter: Markus Perez Echeimberg    Glicko2: 1808.77
+Fighter: Sheymon Moraes             Glicko2: 1808.53
+Fighter: Marcelo Golm               Glicko2: 1808.3
+Fighter: Danny Downes               Glicko2: 1808.28
+Fighter: B.J. Penn                  Glicko2: 1807.71
+Fighter: Michael Johnson (fighter)  Glicko2: 1807.71
+Fighter: Dan Christison             Glicko2: 1807.63
+Fighter: Andy Foster                Glicko2: 1807.59
+Fighter: Din Thomas                 Glicko2: 1807.35
+Fighter: Todd Moore                 Glicko2: 1807.25
+Fighter: Greg Soto                  Glicko2: 1807.2
+Fighter: Steve Garcia               Glicko2: 1807.01
+Fighter: Thiago Silva (fighter)     Glicko2: 1806.53
+Fighter: Mickey Gall                Glicko2: 1806.52
+Fighter: Falaniko Vitale            Glicko2: 1806.41
+Fighter: Patrick Cummins (fighter)  Glicko2: 1806.1
+Fighter: Ulka Sasaki                Glicko2: 1806.1
+Fighter: Yuta Sasaki                Glicko2: 1806.03
+Fighter: Cezar Ferreira             Glicko2: 1805.91
+Fighter: Ryota Matsune              Glicko2: 1805.82
+Fighter: Luiz Firmino               Glicko2: 1805.71
+Fighter: Alessio Di Chirico         Glicko2: 1805.21
+Fighter: Josh Shockley              Glicko2: 1805.07
+Fighter: Danny Henry                Glicko2: 1804.91
+Fighter: Ed Ratcliff                Glicko2: 1804.82
+Fighter: David Heath (fighter)      Glicko2: 1804.78
+Fighter: Sam Stout                  Glicko2: 1804.57
+Fighter: Marcus LeVesseur           Glicko2: 1804.21
+Fighter: Brad Scott (fighter)       Glicko2: 1804.06
+Fighter: Mark Hughes (fighter)      Glicko2: 1803.87
+Fighter: Kelly Anundson             Glicko2: 1803.81
+Fighter: Sultan Tikhaev             Glicko2: 1803.76
+Fighter: Jacob McClintock           Glicko2: 1803.52
+Fighter: Carlo Pedersoli Jr.        Glicko2: 1803.34
+Fighter: Justin Frazier             Glicko2: 1803.1
+Fighter: Ed Herman (fighter)        Glicko2: 1802.6
+Fighter: Su Mudaerji                Glicko2: 1802.54
+Fighter: Nick Catone                Glicko2: 1802.46
+Fighter: Sean McCorkle              Glicko2: 1802.38
+Fighter: Dan Moret                  Glicko2: 1802.24
+Fighter: Rousimar Palhares          Glicko2: 1802.14
+Fighter: Adriano Martins            Glicko2: 1802.0
+Fighter: Max Griffin                Glicko2: 1801.96
+Fighter: Joby Sanchez               Glicko2: 1801.84
+Fighter: Darrell Horcher            Glicko2: 1801.72
+Fighter: Rumen Dimitrov             Glicko2: 1801.68
+Fighter: Curtis Millender           Glicko2: 1801.66
+Fighter: Ilir Latifi                Glicko2: 1801.63
+Fighter: Marcelo Guimarães          Glicko2: 1801.62
+Fighter: Stephan Bonnar             Glicko2: 1801.35
+Fighter: Anthony Lapsley            Glicko2: 1801.16
+Fighter: Rafael Natal               Glicko2: 1800.84
+Fighter: Josh Neer                  Glicko2: 1800.31
+Fighter: Matt Riddle                Glicko2: 1800.28
+Fighter: Matthew Riddle             Glicko2: 1800.28
+Fighter: Noad Lahat                 Glicko2: 1800.13
+Fighter: Lance Benoist              Glicko2: 1800.11
+Fighter: Matt Hobar                 Glicko2: 1799.96
+Fighter: Mikhail Zayats             Glicko2: 1799.86
+Fighter: Nick Thompson (fighter)    Glicko2: 1799.44
+Fighter: Brandon Royval             Glicko2: 1798.61
+Fighter: Matt Wiman                 Glicko2: 1798.6
+Fighter: Todd Duffee                Glicko2: 1797.75
+Fighter: Joachim Hansen (MMA)       Glicko2: 1797.68
+Fighter: Eliot Marshall             Glicko2: 1797.65
+Fighter: Chris Leben                Glicko2: 1797.35
+Fighter: Brandon Vera               Glicko2: 1796.45
+Fighter: Vener Galiev               Glicko2: 1796.43
+Fighter: Ricky Legere               Glicko2: 1796.42
+Fighter: Ben Nguyen                 Glicko2: 1796.42
+Fighter: Thiago Michel              Glicko2: 1796.05
+Fighter: Nicolas Dalby              Glicko2: 1795.18
+Fighter: Mitsuhiro Ishida           Glicko2: 1795.02
+Fighter: Matthew Lopez              Glicko2: 1794.81
+Fighter: Genair da Silva            Glicko2: 1794.81
+Fighter: Tom Niinimaki              Glicko2: 1794.76
+Fighter: Tom Niinimäki              Glicko2: 1794.76
+Fighter: Rambaa Somdet              Glicko2: 1794.18
+Fighter: Kyle Noke                  Glicko2: 1794.02
+Fighter: Kyle Bochniak              Glicko2: 1793.7
+Fighter: Jordan Smith (fighter)     Glicko2: 1793.7
+Fighter: Jack Marshman              Glicko2: 1793.56
+Fighter: Rene Nazare                Glicko2: 1793.49
+Fighter: Renê Nazare                Glicko2: 1793.49
+Fighter: Gabriel Benitez            Glicko2: 1793.25
+Fighter: Gabriel Benítez            Glicko2: 1793.25
+Fighter: Hatsu Hioki                Glicko2: 1792.99
+Fighter: Luiz Cane                  Glicko2: 1792.97
+Fighter: Luiz Cané                  Glicko2: 1792.97
+Fighter: Scott Jorgensen            Glicko2: 1792.84
+Fighter: Reza Madadi                Glicko2: 1792.19
+Fighter: Will Martinez              Glicko2: 1792.16
+Fighter: Chuck Liddell              Glicko2: 1791.25
+Fighter: Aaron Rosa                 Glicko2: 1791.25
+Fighter: Derek Campos               Glicko2: 1791.12
+Fighter: Jared Hamman               Glicko2: 1791.04
+Fighter: Rory Markham               Glicko2: 1790.59
+Fighter: Cyril Asker                Glicko2: 1790.17
+Fighter: Katsunori Kikuno           Glicko2: 1790.07
+Fighter: Tomasz Drwal               Glicko2: 1789.89
+Fighter: Kenny Robertson            Glicko2: 1789.72
+Fighter: Davey Grant                Glicko2: 1789.64
+Fighter: John Alessio               Glicko2: 1789.52
+Fighter: Chris Sanford              Glicko2: 1789.41
+Fighter: Brian Kelleher             Glicko2: 1789.14
+Fighter: Joe Riggs                  Glicko2: 1789.08
+Fighter: Dustin Jacoby              Glicko2: 1788.9
+Fighter: Nick Hein                  Glicko2: 1788.88
+Fighter: Niklas Bäckström (fighter) Glicko2: 1788.81
+Fighter: Yuya Wakamatsu             Glicko2: 1788.8
+Fighter: Sean Soriano               Glicko2: 1788.32
+Fighter: Cody Gibson                Glicko2: 1788.28
+Fighter: Dean Lister                Glicko2: 1788.19
+Fighter: Alex Oliveira              Glicko2: 1788.06
+Fighter: Abel Trujillo              Glicko2: 1787.04
+Fighter: Shane Campbell             Glicko2: 1786.62
+Fighter: Cole Miller                Glicko2: 1786.49
+Fighter: Justin Torrey              Glicko2: 1786.45
+Fighter: Leonardo Mafra             Glicko2: 1786.18
+Fighter: Bret Bergmark              Glicko2: 1786.16
+Fighter: Joshua Culibao             Glicko2: 1786.16
+Fighter: Jesse Forbes               Glicko2: 1786.05
+Fighter: Efrain Escudero            Glicko2: 1785.88
+Fighter: Leandro Issa               Glicko2: 1785.69
+Fighter: Yves Edwards               Glicko2: 1785.63
+Fighter: Will Kerr                  Glicko2: 1785.45
+Fighter: Érik Pérez                 Glicko2: 1785.43
+Fighter: Ion Cutelaba               Glicko2: 1785.16
+Fighter: Ion Cuțelaba               Glicko2: 1785.16
+Fighter: Chico Camus                Glicko2: 1784.9
+Fighter: Marc-André Barriault       Glicko2: 1784.69
+Fighter: Song Yadong                Glicko2: 1784.62
+Fighter: Brett Cooper (fighter)     Glicko2: 1784.47
+Fighter: Mariusz Pudzianowski       Glicko2: 1784.43
+Fighter: Takeya Mizugaki            Glicko2: 1784.24
+Fighter: Matt Serra                 Glicko2: 1783.87
+Fighter: Rich Hale                  Glicko2: 1783.51
+Fighter: Wilson Gouveia             Glicko2: 1783.4
+Fighter: Yadong Song                Glicko2: 1783.29
+Fighter: Roger Hollett              Glicko2: 1783.25
+Fighter: Mike Guymon                Glicko2: 1783.2
+Fighter: Matt Sayles                Glicko2: 1783.19
+Fighter: Luke Jumeau                Glicko2: 1782.81
+Fighter: Krzysztof Soszynski        Glicko2: 1782.59
+Fighter: Alex Caceres               Glicko2: 1782.52
+Fighter: Tom Watson (fighter)       Glicko2: 1782.31
+Fighter: Hayato Sakurai             Glicko2: 1781.91
+Fighter: Rodrigo Lima               Glicko2: 1781.72
+Fighter: Rodrigo de Lima            Glicko2: 1781.72
+Fighter: Frankie Perez              Glicko2: 1781.48
+Fighter: Shinsho Anzai              Glicko2: 1781.19
+Fighter: Chris Lozano               Glicko2: 1781.18
+Fighter: Jordan Rinaldi             Glicko2: 1780.99
+Fighter: Mark Hominick              Glicko2: 1780.75
+Fighter: Rafaello Oliveira          Glicko2: 1780.72
+Fighter: Frank Camacho              Glicko2: 1780.62
+Fighter: Rich Clementi              Glicko2: 1780.38
+Fighter: Cole Smith                 Glicko2: 1779.79
+Fighter: Mike Easton                Glicko2: 1779.74
+Fighter: Sam Hoger                  Glicko2: 1779.44
+Fighter: Dustin Hazelett            Glicko2: 1779.04
+Fighter: Renee Forte                Glicko2: 1778.94
+Fighter: Renée Forte                Glicko2: 1778.94
+Fighter: Gabriel Gonzaga            Glicko2: 1778.63
+Fighter: Jessin Ayari               Glicko2: 1778.51
+Fighter: Yoshiyuki Yoshida          Glicko2: 1778.38
+Fighter: Mike Budnik                Glicko2: 1778.34
+Fighter: Gesias Cavalcante          Glicko2: 1777.99
+Fighter: Reese Andy                 Glicko2: 1777.81
+Fighter: Shannon Gugerty            Glicko2: 1777.71
+Fighter: Herman Terrado             Glicko2: 1777.68
+Fighter: Lavar Johnson              Glicko2: 1777.38
+Fighter: Rob Kimmons                Glicko2: 1777.33
+Fighter: Tyson Pedro                Glicko2: 1777.25
+Fighter: Chris Honeycutt            Glicko2: 1777.22
+Fighter: Karen Darabedyan           Glicko2: 1776.97
+Fighter: Erik Perez                 Glicko2: 1776.88
+Fighter: Sam Sicilia                Glicko2: 1776.59
+Fighter: Tom Speer                  Glicko2: 1776.51
+Fighter: Tommy Speer                Glicko2: 1776.51
+Fighter: Brian Ebersole             Glicko2: 1776.42
+Fighter: Clifford Starks            Glicko2: 1776.28
+Fighter: James Te Huna              Glicko2: 1775.9
+Fighter: James Te-Huna              Glicko2: 1775.9
+Fighter: Isaac Vallie-Flagg         Glicko2: 1775.7
+Fighter: Alex White (fighter)       Glicko2: 1775.55
+Fighter: Jamie Varner               Glicko2: 1775.48
+Fighter: Nathan Coy                 Glicko2: 1775.22
+Fighter: Mark Eddiva                Glicko2: 1774.84
+Fighter: Josh Sampo                 Glicko2: 1774.71
+Fighter: Joshua Sampo               Glicko2: 1774.71
+Fighter: John Franchi               Glicko2: 1774.65
+Fighter: Eddie Wineland             Glicko2: 1774.63
+Fighter: Joe Williams (fighter)     Glicko2: 1774.21
+Fighter: Jeremy Kimball             Glicko2: 1774.14
+Fighter: Doug Marshall              Glicko2: 1773.93
+Fighter: Augusto Mendes             Glicko2: 1773.7
+Fighter: Tanner Boser               Glicko2: 1773.63
+Fighter: Abel Cullum                Glicko2: 1773.49
+Fighter: Dan Miller (fighter)       Glicko2: 1773.15
+Fighter: Clay French                Glicko2: 1773.11
+Fighter: Aiemann Zahabi             Glicko2: 1773.1
+Fighter: Goran Reljic               Glicko2: 1772.99
+Fighter: Goran Reljić               Glicko2: 1772.99
+Fighter: Charles Jourdain           Glicko2: 1772.82
+Fighter: Ronny Markes               Glicko2: 1772.65
+Fighter: Matt Bessette              Glicko2: 1772.62
+Fighter: Karl Amoussou              Glicko2: 1772.55
+Fighter: Antônio Silva (fighter)    Glicko2: 1772.0
+Fighter: Roosevelt Roberts          Glicko2: 1771.98
+Fighter: Nick Osipczak              Glicko2: 1771.72
+Fighter: Tony Sims                  Glicko2: 1771.69
+Fighter: Bobby Moffett              Glicko2: 1771.31
+Fighter: Cyrille Diabate            Glicko2: 1771.31
+Fighter: Cyrille Diabaté            Glicko2: 1771.31
+Fighter: Amir Aliakbari             Glicko2: 1771.16
+Fighter: Brock Lesnar               Glicko2: 1771.06
+Fighter: Alex Garcia (fighter)      Glicko2: 1770.95
+Fighter: Eric Pele                  Glicko2: 1770.82
+Fighter: Ken Stone (fighter)        Glicko2: 1770.49
+Fighter: Justin Eilers              Glicko2: 1770.33
+Fighter: Junior Albini              Glicko2: 1770.24
+Fighter: Júnior Albini              Glicko2: 1770.24
+Fighter: Scott Lighty               Glicko2: 1770.17
+Fighter: Ricky Rainey               Glicko2: 1769.82
+Fighter: Karo Parisyan              Glicko2: 1769.77
+Fighter: Matt Mitrione              Glicko2: 1769.72
+Fighter: Yui Chul Nam               Glicko2: 1769.2
+Fighter: Jesse Ronson               Glicko2: 1769.03
+Fighter: Hugo Viana (fighter)       Glicko2: 1768.91
+Fighter: Cory Devela                Glicko2: 1768.79
+Fighter: Nick Pace                  Glicko2: 1768.54
+Fighter: Kazuyuki Miyata            Glicko2: 1768.12
+Fighter: Erick Silva                Glicko2: 1768.02
+Fighter: Irshaad Sayed              Glicko2: 1767.99
+Fighter: Vinicius Queiroz           Glicko2: 1767.59
+Fighter: Tim Elliott                Glicko2: 1767.49
+Fighter: Kai Kara-France            Glicko2: 1767.14
+Fighter: Lloyd Woodard              Glicko2: 1766.64
+Fighter: Daniel Roberts (fighter)   Glicko2: 1766.64
+Fighter: Dokonjonosuke Mishima      Glicko2: 1766.61
+Fighter: Frankie Saenz              Glicko2: 1766.5
+Fighter: Yves Jabouin               Glicko2: 1766.4
+Fighter: Nobutatsu Suzuki           Glicko2: 1766.12
+Fighter: Aleksa Camur               Glicko2: 1766.06
+Fighter: Hiroyuki Takaya            Glicko2: 1765.96
+Fighter: David Zawada               Glicko2: 1765.91
+Fighter: Emanuel Newton             Glicko2: 1765.55
+Fighter: Duane Bastress             Glicko2: 1765.4
+Fighter: Mark Godbeer               Glicko2: 1764.98
+Fighter: Andrei Semenov (fighter)   Glicko2: 1764.93
+Fighter: Brandon Girtz              Glicko2: 1764.86
+Fighter: Shanon Slack               Glicko2: 1764.7
+Fighter: David Loiseau              Glicko2: 1764.5
+Fighter: Cory Walmsley              Glicko2: 1764.48
+Fighter: Benji Radach               Glicko2: 1764.43
+Fighter: Anthony Leone              Glicko2: 1764.41
+Fighter: Antonio Carvalho           Glicko2: 1763.79
+Fighter: Justin McCully             Glicko2: 1763.78
+Fighter: Dragan Tešanović           Glicko2: 1763.76
+Fighter: Steven Peterson            Glicko2: 1763.38
+Fighter: Rob Broughton              Glicko2: 1763.11
+Fighter: Danny Martinez             Glicko2: 1763.01
+Fighter: Daichi Abe                 Glicko2: 1762.86
+Fighter: William Macário            Glicko2: 1762.79
+Fighter: Steve Mocco                Glicko2: 1762.75
+Fighter: Logan Clark                Glicko2: 1762.59
+Fighter: Carl Malenko               Glicko2: 1762.58
+Fighter: Carl Ognibene              Glicko2: 1762.58
+Fighter: Justin Lawrence            Glicko2: 1762.55
+Fighter: Paul Bradley (fighter)     Glicko2: 1762.51
+Fighter: Antoine Jaoude             Glicko2: 1762.38
+Fighter: Remigijus Morkevicius      Glicko2: 1762.37
+Fighter: Celso Vinicius             Glicko2: 1762.31
+Fighter: Jalin Turner               Glicko2: 1762.14
+Fighter: Andre Ewell                Glicko2: 1762.03
+Fighter: Martin Stapleton           Glicko2: 1761.87
+Fighter: Tony DeSouza               Glicko2: 1761.81
+Fighter: Marius Zaromskis           Glicko2: 1761.75
+Fighter: Marius Žaromskis           Glicko2: 1761.75
+Fighter: War Machine (mixed martial artist) Glicko2: 1761.41
+Fighter: David Smith (fighter)      Glicko2: 1761.14
+Fighter: Kazuo Misaki               Glicko2: 1760.68
+Fighter: Jim Alers                  Glicko2: 1760.56
+Fighter: Jeff Monson                Glicko2: 1760.45
+Fighter: Kestutis Smirnovas         Glicko2: 1760.35
+Fighter: Cristiano Souza            Glicko2: 1760.28
+Fighter: Dhiego Lima                Glicko2: 1760.06
+Fighter: Frank Mir                  Glicko2: 1760.02
+Fighter: Mats Nilsson               Glicko2: 1759.87
+Fighter: Peter Sobotta              Glicko2: 1759.74
+Fighter: Curt Warburton             Glicko2: 1759.54
+Fighter: Dan Bobish                 Glicko2: 1759.51
+Fighter: Vitor Miranda              Glicko2: 1759.49
+Fighter: Kyle Kingsbury             Glicko2: 1759.43
+Fighter: Henry Martinez (fighter)   Glicko2: 1759.27
+Fighter: Hyun Gyu Lim               Glicko2: 1759.24
+Fighter: Lim Hyun-Gyu               Glicko2: 1759.24
+Fighter: Anthony Birchak            Glicko2: 1759.21
+Fighter: Andreas Spang              Glicko2: 1759.19
+Fighter: Andreas Spång              Glicko2: 1759.19
+Fighter: Justin Ledet               Glicko2: 1758.78
+Fighter: Levan Razmadze             Glicko2: 1758.65
+Fighter: Sheldon Westcott           Glicko2: 1758.57
+Fighter: Charlie Valencia           Glicko2: 1758.56
+Fighter: Marcos Galvao              Glicko2: 1758.32
+Fighter: Marcos Galvão              Glicko2: 1758.32
+Fighter: Drew Fickett               Glicko2: 1758.32
+Fighter: Patrick Barry (martial artist) Glicko2: 1758.11
+Fighter: Amir Sadollah              Glicko2: 1758.1
+Fighter: Rafael Cavalcante          Glicko2: 1758.09
+Fighter: Mike De La Torre           Glicko2: 1757.62
+Fighter: Mike de la Torre           Glicko2: 1757.62
+Fighter: Junior Assuncao            Glicko2: 1757.55
+Fighter: Junior Assunção            Glicko2: 1757.55
+Fighter: Ronnie Mann                Glicko2: 1757.03
+Fighter: Mauro Galvão (fighter)     Glicko2: 1756.87
+Fighter: Juan Adams                 Glicko2: 1756.47
+Fighter: Mitch Clarke               Glicko2: 1756.06
+Fighter: Marcus Hicks               Glicko2: 1756.06
+Fighter: Joe Pacheco                Glicko2: 1755.88
+Fighter: Brad Pickett               Glicko2: 1755.76
+Fighter: Per Eklund (fighter)       Glicko2: 1755.28
+Fighter: Justin Salas               Glicko2: 1755.23
+Fighter: Jake Hecht                 Glicko2: 1755.07
+Fighter: Keith Wisniewski           Glicko2: 1754.84
+Fighter: Casey Olson                Glicko2: 1754.46
+Fighter: Takasuke Kume              Glicko2: 1754.15
+Fighter: Daron Cruickshank          Glicko2: 1754.13
+Fighter: Austin Hubbard             Glicko2: 1753.3
+Fighter: Salim Touahri              Glicko2: 1753.18
+Fighter: Lando Vannata              Glicko2: 1753.1
+Fighter: Dan Evensen                Glicko2: 1753.02
+Fighter: Carmelo Marrero            Glicko2: 1752.87
+Fighter: Viscardi Andrade           Glicko2: 1752.79
+Fighter: Marcus Davis               Glicko2: 1752.76
+Fighter: Charlie Brenneman          Glicko2: 1752.73
+Fighter: Bevon Lewis                Glicko2: 1752.52
+Fighter: Igor Araujo                Glicko2: 1752.36
+Fighter: Igor Araújo                Glicko2: 1752.36
+Fighter: Mighty Mo (kickboxer)      Glicko2: 1752.23
+Fighter: Chris Clements (fighter)   Glicko2: 1752.14
+Fighter: Maiquel Falcao             Glicko2: 1752.09
+Fighter: Maiquel Falcão             Glicko2: 1752.09
+Fighter: Kamal Shalorus             Glicko2: 1752.04
+Fighter: Chase Sherman              Glicko2: 1751.79
+Fighter: Kazuhiro Nakamura          Glicko2: 1751.38
+Fighter: Joe Taimanglo              Glicko2: 1751.29
+Fighter: Bobby Nash                 Glicko2: 1751.06
+Fighter: Hisaki Kato                Glicko2: 1750.85
+Fighter: Amaury Bitetti             Glicko2: 1750.54
+Fighter: Erik Paulson               Glicko2: 1750.54
+Fighter: Herschel Walker            Glicko2: 1750.54
+Fighter: Jason Ellis (radio host)   Glicko2: 1750.54
+Fighter: Tyrone Spong               Glicko2: 1750.54
+Fighter: Kang Kyung-Ho              Glicko2: 1750.32
+Fighter: Kang Kyung-ho              Glicko2: 1750.32
+Fighter: Kyung Ho Kang              Glicko2: 1750.32
+Fighter: Alp Ozkilic                Glicko2: 1750.29
+Fighter: Alptekin Ozkilic           Glicko2: 1750.29
+Fighter: Mark Holata                Glicko2: 1750.17
+Fighter: Brok Weaver                Glicko2: 1750.08
+Fighter: Josh Burkman               Glicko2: 1750.03
+Fighter: Duane Ludwig               Glicko2: 1749.67
+Fighter: Frank Trigg                Glicko2: 1749.61
+Fighter: Joshua Burkman             Glicko2: 1749.26
+Fighter: Matt Brown (fighter)       Glicko2: 1749.1
+Fighter: Coty Wheeler               Glicko2: 1749.01
+Fighter: Diego Brandao              Glicko2: 1748.89
+Fighter: Diego Brandão              Glicko2: 1748.89
+Fighter: Anthony Gomez              Glicko2: 1748.88
+Fighter: Matt Dwyer                 Glicko2: 1748.61
+Fighter: Jake Collier               Glicko2: 1748.51
+Fighter: Antonio Braga Neto         Glicko2: 1748.46
+Fighter: Antônio Braga Neto         Glicko2: 1748.46
+Fighter: Derrick Krantz             Glicko2: 1748.27
+Fighter: Darrell Montague           Glicko2: 1748.22
+Fighter: Clint Hester               Glicko2: 1748.04
+Fighter: Erik Apple                 Glicko2: 1747.7
+Fighter: Paul Buentello             Glicko2: 1747.67
+Fighter: Jared Gooden               Glicko2: 1747.66
+Fighter: Assuerio Silva             Glicko2: 1747.54
+Fighter: Bobby Voelker              Glicko2: 1747.53
+Fighter: Eduard Folayang            Glicko2: 1747.5
+Fighter: Tor Troéng                 Glicko2: 1747.16
+Fighter: Fredson Paixao             Glicko2: 1747.14
+Fighter: Fredson Paixão             Glicko2: 1747.14
+Fighter: Elvis Mutapčić             Glicko2: 1747.12
+Fighter: Takashi Nakakura           Glicko2: 1746.83
+Fighter: Chase Hooper               Glicko2: 1746.8
+Fighter: Joe Duarte                 Glicko2: 1746.27
+Fighter: Steve Bruno                Glicko2: 1746.27
+Fighter: Lucas Browne               Glicko2: 1746.1
+Fighter: Allan Goes                 Glicko2: 1746.01
+Fighter: Yoshihiro Akiyama          Glicko2: 1745.82
+Fighter: Drew McFedries             Glicko2: 1745.8
+Fighter: Poppies Martinez           Glicko2: 1745.66
+Fighter: Papy Abedi                 Glicko2: 1745.58
+Fighter: Brodie Farber              Glicko2: 1745.51
+Fighter: Jonas Billstein            Glicko2: 1744.59
+Fighter: Justin Edwards (fighter)   Glicko2: 1744.05
+Fighter: Leandro Silva (mixed martial artist) Glicko2: 1743.69
+Fighter: Mackens Semerzier          Glicko2: 1743.55
+Fighter: Chris Spang                Glicko2: 1743.02
+Fighter: Chris Spång                Glicko2: 1743.02
+Fighter: Bill Algeo                 Glicko2: 1742.89
+Fighter: Akop Stepanyan             Glicko2: 1742.63
+Fighter: Jason MacDonald            Glicko2: 1742.56
+Fighter: Darrick Minner             Glicko2: 1742.39
+Fighter: Maciej Jewtuszko           Glicko2: 1742.24
+Fighter: LaRue Burley               Glicko2: 1741.85
+Fighter: Alexandre Ferreira (fighter) Glicko2: 1741.64
+Fighter: Gzim Selmani               Glicko2: 1741.48
+Fighter: James Moontasri            Glicko2: 1741.45
+Fighter: Antonio Banuelos           Glicko2: 1741.42
+Fighter: Satoshi Ishii              Glicko2: 1741.35
+Fighter: Henrique da Silva (fighter) Glicko2: 1741.2
+Fighter: Shintaro Ishiwatari        Glicko2: 1741.14
+Fighter: Trevor Smith (fighter)     Glicko2: 1740.71
+Fighter: Brandon Thatch             Glicko2: 1740.57
+Fighter: Kazunori Yokota            Glicko2: 1740.44
+Fighter: Christian Wellisch         Glicko2: 1740.22
+Fighter: Raphael Butler             Glicko2: 1739.99
+Fighter: Fábio Maldonado            Glicko2: 1739.96
+Fighter: Shawn Bunch                Glicko2: 1739.83
+Fighter: Alberto Crane              Glicko2: 1739.82
+Fighter: Caio Magalhaes             Glicko2: 1739.73
+Fighter: Caio Magalhães             Glicko2: 1739.73
+Fighter: Robbie Peralta             Glicko2: 1738.86
+Fighter: Tom Lawlor                 Glicko2: 1738.84
+Fighter: Cain Carrizosa             Glicko2: 1738.79
+Fighter: Gadzhimurad Antigulov      Glicko2: 1738.66
+Fighter: Carey Vanier               Glicko2: 1738.63
+Fighter: Eddie Sanchez              Glicko2: 1738.29
+Fighter: Saparbek Safarov           Glicko2: 1738.12
+Fighter: Siala-Mou Siliga           Glicko2: 1737.96
+Fighter: Ralek Gracie               Glicko2: 1737.52
+Fighter: Chris Lytle                Glicko2: 1737.07
+Fighter: Akira Corassani            Glicko2: 1737.0
+Fighter: Eddie Yagin                Glicko2: 1736.9
+Fighter: Melvin Manhoef             Glicko2: 1736.05
+Fighter: Virgil Zwicker             Glicko2: 1735.27
+Fighter: Yaotzin Meza               Glicko2: 1734.73
+Fighter: Khama Worthy               Glicko2: 1734.63
+Fighter: Omar de la Cruz            Glicko2: 1734.62
+Fighter: Keith Jardine              Glicko2: 1734.26
+Fighter: TJ Waldburger              Glicko2: 1734.21
+Fighter: Sean Spencer (fighter)     Glicko2: 1733.47
+Fighter: Kendall Grove              Glicko2: 1733.18
+Fighter: Ryan Schultz               Glicko2: 1733.17
+Fighter: Scott Smith (fighter)      Glicko2: 1733.04
+Fighter: Terry Martin (fighter)     Glicko2: 1732.99
+Fighter: Cale Yarbrough             Glicko2: 1732.56
+Fighter: Laureano Staropoli         Glicko2: 1732.35
+Fighter: Justin Jaynes              Glicko2: 1732.31
+Fighter: Kalib Starnes              Glicko2: 1732.22
+Fighter: Emil Weber Meek            Glicko2: 1732.16
+Fighter: Aung La N Sang             Glicko2: 1731.91
+Fighter: Aung La Nsang              Glicko2: 1731.91
+Fighter: Chalid Arrab               Glicko2: 1731.79
+Fighter: Michael Kuiper             Glicko2: 1731.12
+Fighter: Masakazu Imanari           Glicko2: 1730.81
+Fighter: Shahbulat Shamhalaev       Glicko2: 1730.18
+Fighter: Peter Graham (kickboxer)   Glicko2: 1729.88
+Fighter: Jason Lambert              Glicko2: 1729.78
+Fighter: Jason Lambert (fighter)    Glicko2: 1729.78
+Fighter: Carlos Eduardo Rocha       Glicko2: 1729.45
+Fighter: Alexis Vila                Glicko2: 1729.41
+Fighter: Haim Gozali                Glicko2: 1729.36
+Fighter: Igor Pokrajac              Glicko2: 1729.11
+Fighter: Kris McCray                Glicko2: 1728.84
+Fighter: Roger Narvaez              Glicko2: 1728.73
+Fighter: Jason Young (fighter)      Glicko2: 1728.63
+Fighter: Luis Nogueira              Glicko2: 1728.38
+Fighter: Kid Yamamoto               Glicko2: 1728.34
+Fighter: Alexandre Franca Nogueira  Glicko2: 1728.24
+Fighter: Mario Sperry               Glicko2: 1728.19
+Fighter: Edgar Garcia               Glicko2: 1727.79
+Fighter: Edgar García               Glicko2: 1727.79
+Fighter: Antwain Britt              Glicko2: 1727.72
+Fighter: Norifumi Yamamoto          Glicko2: 1727.24
+Fighter: Chad George                Glicko2: 1727.08
+Fighter: Travis Lutter              Glicko2: 1726.42
+Fighter: Joe Vedepo                 Glicko2: 1726.19
+Fighter: Ryo Chonan                 Glicko2: 1725.92
+Fighter: Steve Cantwell             Glicko2: 1725.86
+Fighter: Mike Wessel                Glicko2: 1725.68
+Fighter: Shane Nelson (fighter)     Glicko2: 1725.65
+Fighter: Jonathan Goulet            Glicko2: 1725.53
+Fighter: Sylvester Terkay           Glicko2: 1725.43
+Fighter: Gabe Ruediger              Glicko2: 1725.43
+Fighter: Manny Gamburyan            Glicko2: 1725.34
+Fighter: Manvel Gamburyan           Glicko2: 1725.34
+Fighter: Mac Danzig                 Glicko2: 1725.28
+Fighter: Herbert Goodman            Glicko2: 1725.1
+Fighter: Clay Collard               Glicko2: 1725.01
+Fighter: Vince Morales              Glicko2: 1724.61
+Fighter: Mizuto Hirota              Glicko2: 1724.58
+Fighter: Ed West (fighter)          Glicko2: 1724.56
+Fighter: Saul Almeida               Glicko2: 1723.79
+Fighter: Geraldo de Freitas         Glicko2: 1723.27
+Fighter: Lolohea Mahe               Glicko2: 1723.13
+Fighter: T. J. Cook                 Glicko2: 1722.74
+Fighter: T.J. Cook                  Glicko2: 1722.74
+Fighter: Jeff Curran                Glicko2: 1722.66
+Fighter: Anthony Hamilton (fighter) Glicko2: 1722.61
+Fighter: Gustavo Machado            Glicko2: 1722.39
+Fighter: Darren Stewart (fighter)   Glicko2: 1722.3
+Fighter: Ian Entwistle              Glicko2: 1722.17
+Fighter: Thiago Perpetuo            Glicko2: 1721.79
+Fighter: Thiago Perpétuo            Glicko2: 1721.79
+Fighter: Zhang Lipeng               Glicko2: 1721.73
+Fighter: Minoru Suzuki              Glicko2: 1721.41
+Fighter: Cleber Luciano             Glicko2: 1721.33
+Fighter: Dante Rivera               Glicko2: 1720.72
+Fighter: Chris Cope                 Glicko2: 1720.57
+Fighter: Maximo Blanco              Glicko2: 1720.57
+Fighter: Gustavo Falciroli          Glicko2: 1720.39
+Fighter: Brian Rogers (fighter)     Glicko2: 1719.78
+Fighter: Khalil Rountree            Glicko2: 1719.58
+Fighter: Khalil Rountree Jr.        Glicko2: 1719.58
+Fighter: Egidijus Valavicius        Glicko2: 1719.53
+Fighter: Egidijus Valavičius        Glicko2: 1719.53
+Fighter: Razak Al-Hassan            Glicko2: 1719.39
+Fighter: Tae Hyun Bang              Glicko2: 1719.36
+Fighter: Radmir Gabdullin           Glicko2: 1719.32
+Fighter: Joachim Christensen        Glicko2: 1719.18
+Fighter: Richie Vaculik             Glicko2: 1718.97
+Fighter: Eiji Mitsuoka              Glicko2: 1718.79
+Fighter: Royston Wee                Glicko2: 1718.75
+Fighter: Mikihito Yamagami          Glicko2: 1718.72
+Fighter: Rodney Wallace (fighter)   Glicko2: 1718.29
+Fighter: Takeshi Inoue (mixed martial artist) Glicko2: 1718.25
+Fighter: Guilherme Viana            Glicko2: 1718.16
+Fighter: Alexei Kudin               Glicko2: 1717.95
+Fighter: Charles McCarthy (fighter) Glicko2: 1717.82
+Fighter: Damacio Page               Glicko2: 1717.76
+Fighter: Anthony Njokuani           Glicko2: 1717.73
+Fighter: John Gunderson             Glicko2: 1717.63
+Fighter: José Alberto Quiñónez      Glicko2: 1717.59
+Fighter: Micah Miller (fighter)     Glicko2: 1717.18
+Fighter: Rodrigo Damm               Glicko2: 1716.95
+Fighter: Ralph Gracie               Glicko2: 1716.91
+Fighter: Anton Kuivanen             Glicko2: 1716.78
+Fighter: Jonathan Brookins          Glicko2: 1716.75
+Fighter: Jordan Griffin             Glicko2: 1716.67
+Fighter: Nate Moore                 Glicko2: 1716.38
+Fighter: Phillipe Nover             Glicko2: 1716.26
+Fighter: Ryan Martinez              Glicko2: 1716.16
+Fighter: Koetsu Okazaki             Glicko2: 1716.05
+Fighter: Luigi Fioravanti           Glicko2: 1715.82
+Fighter: Devin Cole                 Glicko2: 1715.8
+Fighter: Mikhail Mokhnatkin         Glicko2: 1715.74
+Fighter: Marcus Brimage             Glicko2: 1715.67
+Fighter: Walt Harris (fighter)      Glicko2: 1715.05
+Fighter: Wagner Prado               Glicko2: 1714.96
+Fighter: Luiz Azeredo               Glicko2: 1714.92
+Fighter: Parker Porter              Glicko2: 1714.89
+Fighter: Crafton Wallace            Glicko2: 1714.84
+Fighter: Dequan Townsend            Glicko2: 1714.72
+Fighter: Ben Alloway                Glicko2: 1714.4
+Fighter: Felipe Arantes             Glicko2: 1714.37
+Fighter: Chris Heatherly            Glicko2: 1714.18
+Fighter: Manny Tapia                Glicko2: 1713.97
+Fighter: Tyler Toner                Glicko2: 1713.73
+Fighter: Justin Bruckmann           Glicko2: 1713.71
+Fighter: Rolles Gracie              Glicko2: 1713.53
+Fighter: Rolles Gracie Jr.          Glicko2: 1713.53
+Fighter: Rolles Gracie, Jr.         Glicko2: 1713.53
+Fighter: George Sullivan (fighter)  Glicko2: 1713.48
+Fighter: Andre Soukhamthath         Glicko2: 1713.28
+Fighter: Fernando Gonzalez (fighter) Glicko2: 1713.23
+Fighter: Waylon Lowe                Glicko2: 1712.92
+Fighter: James Wilks                Glicko2: 1712.77
+Fighter: Modestas Bukauskas         Glicko2: 1712.58
+Fighter: Jared Hess (fighter)       Glicko2: 1712.5
+Fighter: Mike Rio                   Glicko2: 1712.45
+Fighter: Andy Enz                   Glicko2: 1711.64
+Fighter: Kazuki Tokudome            Glicko2: 1711.33
+Fighter: Sabah Homasi               Glicko2: 1711.25
+Fighter: Ian Loveland               Glicko2: 1710.97
+Fighter: Allen Crowder              Glicko2: 1710.96
+Fighter: Pete Sell                  Glicko2: 1710.93
+Fighter: Edwin Figueroa             Glicko2: 1710.88
+Fighter: Luke Barnatt               Glicko2: 1710.45
+Fighter: Luke Stewart               Glicko2: 1710.34
+Fighter: Magomedkhan Gamzatkhanov   Glicko2: 1710.14
+Fighter: Jonathan Wilson (fighter)  Glicko2: 1709.89
+Fighter: Ulysses Gomez              Glicko2: 1709.77
+Fighter: Ramsey Nijem               Glicko2: 1709.75
+Fighter: John Maguire (fighter)     Glicko2: 1709.65
+Fighter: Pat Healy (fighter)        Glicko2: 1709.63
+Fighter: Henry Briones              Glicko2: 1709.52
+Fighter: Andre Amade                Glicko2: 1709.33
+Fighter: Sergey Golyaev             Glicko2: 1709.08
+Fighter: Mike Massenzio             Glicko2: 1709.02
+Fighter: James Terry (fighter)      Glicko2: 1708.99
+Fighter: Ole Laursen                Glicko2: 1708.96
+Fighter: Murilo Bustamante          Glicko2: 1708.35
+Fighter: Claudio Ledesma            Glicko2: 1708.19
+Fighter: Shane Young                Glicko2: 1708.0
+Fighter: Roman Mitichyan            Glicko2: 1707.93
+Fighter: Rony Jason                 Glicko2: 1707.78
+Fighter: Rony Mariano Bezerra       Glicko2: 1707.78
+Fighter: Volk Han                   Glicko2: 1707.09
+Fighter: Danny Chavez               Glicko2: 1706.92
+Fighter: Cole Escovedo              Glicko2: 1706.71
+Fighter: Nestoras Batzelas          Glicko2: 1706.62
+Fighter: Chuck O'Neil               Glicko2: 1706.54
+Fighter: Steve Steinbeiss           Glicko2: 1706.52
+Fighter: Hiroshi Nakamura (fighter) Glicko2: 1706.21
+Fighter: Derrick Mehmen             Glicko2: 1706.14
+Fighter: Paul Taylor (fighter)      Glicko2: 1705.32
+Fighter: Dejdamrong Sor Amnuaysirichoke Glicko2: 1705.13
+Fighter: Gasan Umalatov             Glicko2: 1704.63
+Fighter: Jason Dent                 Glicko2: 1704.35
+Fighter: Zelim Imadaev              Glicko2: 1704.05
+Fighter: Konstantin Gluhov          Glicko2: 1703.8
+Fighter: Jesse Juarez               Glicko2: 1703.48
+Fighter: Terrion Ware               Glicko2: 1703.2
+Fighter: Cristiano Marcello         Glicko2: 1703.19
+Fighter: Chris Saunders (mixed martial artist) Glicko2: 1703.15
+Fighter: Mitsuhisa Sunabe           Glicko2: 1703.1
+Fighter: Sanae Kikuta               Glicko2: 1702.92
+Fighter: Brandon Davis              Glicko2: 1702.67
+Fighter: Toby Imada                 Glicko2: 1702.6
+Fighter: Nick Mamalis               Glicko2: 1702.4
+Fighter: Luis Henrique (fighter)    Glicko2: 1702.33
+Fighter: Chris de la Rocha          Glicko2: 1702.16
+Fighter: Vuyisile Colossa           Glicko2: 1702.16
+Fighter: Sergej Grecicho            Glicko2: 1702.15
+Fighter: Callan Potter              Glicko2: 1702.14
+Fighter: Javy Ayala                 Glicko2: 1701.96
+Fighter: Conor Heun                 Glicko2: 1701.82
+Fighter: Dave Menne                 Glicko2: 1701.63
+Fighter: Angelo Sanchez             Glicko2: 1701.41
+Fighter: Jake Rosholt               Glicko2: 1700.99
+Fighter: Yosuke Saruta              Glicko2: 1700.85
+Fighter: Matt Frevola               Glicko2: 1700.69
+Fighter: Willie Gates               Glicko2: 1700.47
+Fighter: Leonard Garcia             Glicko2: 1700.32
+Fighter: Semmy Schilt               Glicko2: 1699.99
+Fighter: Alvin Robinson             Glicko2: 1699.97
+Fighter: Ryan Benoit                Glicko2: 1699.81
+Fighter: Dmitry Smolyakov           Glicko2: 1699.65
+Fighter: Cody Pfister               Glicko2: 1699.64
+Fighter: Damian Stasiak             Glicko2: 1699.45
+Fighter: Ryan Healy                 Glicko2: 1699.39
+Fighter: Kyle Prepolec              Glicko2: 1699.3
+Fighter: Ron Stallings              Glicko2: 1699.25
+Fighter: Roger Bowling (fighter)    Glicko2: 1698.72
+Fighter: Carlos Eduardo (fighter)   Glicko2: 1698.65
+Fighter: Daniel Spitz               Glicko2: 1698.61
+Fighter: Mario Miranda (fighter)    Glicko2: 1698.57
+Fighter: Satoru Kitaoka             Glicko2: 1698.53
+Fighter: Enrique Marín              Glicko2: 1698.25
+Fighter: Adam Schindler             Glicko2: 1698.19
+Fighter: Darren Uyenoyama           Glicko2: 1697.76
+Fighter: Marcel Fortuna             Glicko2: 1697.17
+Fighter: Eric Spicely               Glicko2: 1696.98
+Fighter: Eric Shelton (fighter)     Glicko2: 1695.76
+Fighter: Chase Gormley              Glicko2: 1695.69
+Fighter: Greg Hardy                 Glicko2: 1695.46
+Fighter: Ryan Roberts (mixed martial artist) Glicko2: 1694.97
+Fighter: Journey Newson             Glicko2: 1694.91
+Fighter: Melvin Guillard            Glicko2: 1694.66
+Fighter: Jason Day (fighter)        Glicko2: 1694.27
+Fighter: Garett Whiteley            Glicko2: 1694.1
+Fighter: Joao Roque                 Glicko2: 1694.08
+Fighter: João Roque                 Glicko2: 1694.08
+Fighter: David Bielkheden           Glicko2: 1694.08
+Fighter: Tim Hague                  Glicko2: 1693.97
+Fighter: Ildemar Alcântara          Glicko2: 1693.42
+Fighter: Anthony Perosh             Glicko2: 1693.36
+Fighter: Chase Beebe                Glicko2: 1693.21
+Fighter: Eric Reynolds (fighter)    Glicko2: 1693.0
+Fighter: Kajan Johnson              Glicko2: 1692.63
+Fighter: Seth Petruzelli            Glicko2: 1691.96
+Fighter: Ewerton Teixeira           Glicko2: 1691.92
+Fighter: Mark De La Rosa            Glicko2: 1691.78
+Fighter: Marco Beltrán              Glicko2: 1691.56
+Fighter: Marcello Salazar           Glicko2: 1691.48
+Fighter: Tyson Nam                  Glicko2: 1691.47
+Fighter: Fredy Serrano              Glicko2: 1691.28
+Fighter: Anthony Morrison           Glicko2: 1691.18
+Fighter: Gian Villante              Glicko2: 1691.18
+Fighter: Ron Waterman               Glicko2: 1691.11
+Fighter: Elias Silvério             Glicko2: 1690.75
+Fighter: Ryuichi Murata             Glicko2: 1690.66
+Fighter: Yahir Reyes                Glicko2: 1690.47
+Fighter: Ricardo Funch              Glicko2: 1690.46
+Fighter: Ike Villanueva             Glicko2: 1690.17
+Fighter: Isaac Villanueva           Glicko2: 1690.17
+Fighter: Brett McDermott            Glicko2: 1690.13
+Fighter: Rafael Rebello             Glicko2: 1689.68
+Fighter: Liu Pingyuan               Glicko2: 1689.35
+Fighter: Josh Appelt                Glicko2: 1689.13
+Fighter: Antoni Hardonk             Glicko2: 1689.0
+Fighter: Gan McGee                  Glicko2: 1688.48
+Fighter: Kultar Gill                Glicko2: 1688.39
+Fighter: Aaron Riley                Glicko2: 1688.39
+Fighter: Branden Lee Hinkle         Glicko2: 1688.37
+Fighter: Iliarde Santos             Glicko2: 1688.11
+Fighter: Dom O'Grady                Glicko2: 1688.1
+Fighter: Yusuke Kawaguchi           Glicko2: 1687.84
+Fighter: Rich Attonito              Glicko2: 1687.53
+Fighter: Hiromitsu Miura            Glicko2: 1687.52
+Fighter: Kirill Sidelnikov          Glicko2: 1687.51
+Fighter: Homer Moore                Glicko2: 1687.21
+Fighter: John-Olav Einemo           Glicko2: 1687.13
+Fighter: Jon Olav Einemo            Glicko2: 1687.13
+Fighter: Kevin Burns (fighter)      Glicko2: 1686.84
+Fighter: Hiroshi Izumi              Glicko2: 1686.63
+Fighter: Josh Quayhagen             Glicko2: 1686.58
+Fighter: Garreth McLellan           Glicko2: 1685.58
+Fighter: André Soares (fighter)     Glicko2: 1685.21
+Fighter: Tiago Trator               Glicko2: 1685.05
+Fighter: Rob Emerson                Glicko2: 1684.36
+Fighter: Abner Lloveras             Glicko2: 1683.75
+Fighter: Caros Fodor                Glicko2: 1683.34
+Fighter: Sammy Morgan (fighter)     Glicko2: 1683.32
+Fighter: Daniel Sarafian            Glicko2: 1682.55
+Fighter: Cody Donovan               Glicko2: 1682.48
+Fighter: Richard Walsh (fighter)    Glicko2: 1681.92
+Fighter: Carlo Prater               Glicko2: 1681.75
+Fighter: Chad Leonhardt             Glicko2: 1681.69
+Fighter: Koyomi Matsushima          Glicko2: 1681.49
+Fighter: Jake Lindsey (fighter)     Glicko2: 1681.01
+Fighter: John Kolosci               Glicko2: 1680.87
+Fighter: Tateki Matsuda             Glicko2: 1680.64
+Fighter: Mike Bronzoulis            Glicko2: 1680.62
+Fighter: Rolando Delgado            Glicko2: 1680.37
+Fighter: Caol Uno                   Glicko2: 1679.95
+Fighter: Andre Winner               Glicko2: 1679.79
+Fighter: Frank Caraballo            Glicko2: 1679.76
+Fighter: Roland Delorme             Glicko2: 1679.7
+Fighter: Albert Morales             Glicko2: 1679.67
+Fighter: Bao Quach                  Glicko2: 1679.58
+Fighter: Jeremy Larsen              Glicko2: 1679.38
+Fighter: Chris Wilson (fighter)     Glicko2: 1679.31
+Fighter: Hermes Franca              Glicko2: 1678.65
+Fighter: Hermes França              Glicko2: 1678.65
+Fighter: Akiyo Nishiura             Glicko2: 1677.91
+Fighter: Marco Polo Reyes           Glicko2: 1677.6
+Fighter: Mike Mucitelli             Glicko2: 1677.59
+Fighter: Jorge Gurgel               Glicko2: 1677.43
+Fighter: Bristol Marunde            Glicko2: 1677.43
+Fighter: Akbarh Arreola             Glicko2: 1677.27
+Fighter: Rashad Coulter             Glicko2: 1677.0
+Fighter: Mark Hunt                  Glicko2: 1676.95
+Fighter: Murilo Rua                 Glicko2: 1676.27
+Fighter: Ode' Osbourne              Glicko2: 1676.17
+Fighter: Alex Karalexis             Glicko2: 1675.68
+Fighter: Tatsuya Mizuno             Glicko2: 1675.17
+Fighter: Guto Inocente              Glicko2: 1675.12
+Fighter: Josh Stansbury             Glicko2: 1674.4
+Fighter: Simeon Thoresen            Glicko2: 1673.62
+Fighter: Brandon Cash               Glicko2: 1673.21
+Fighter: Polo Reyes                 Glicko2: 1672.74
+Fighter: Kevin Croom                Glicko2: 1672.53
+Fighter: Frank Gomez                Glicko2: 1672.49
+Fighter: Dominique Steele           Glicko2: 1672.4
+Fighter: Hans Stringer              Glicko2: 1672.09
+Fighter: Brett Rogers               Glicko2: 1671.84
+Fighter: Jeremy Jackson (fighter)   Glicko2: 1671.75
+Fighter: Adam Milstead              Glicko2: 1671.66
+Fighter: Sergej Maslobojev          Glicko2: 1671.59
+Fighter: Oskar Piechota             Glicko2: 1671.15
+Fighter: Koji Yoshimoto             Glicko2: 1671.08
+Fighter: Alonzo Martinez            Glicko2: 1670.91
+Fighter: Kiichi Kunimoto            Glicko2: 1670.69
+Fighter: Kyle Bradley               Glicko2: 1670.26
+Fighter: Yuya Shirai                Glicko2: 1670.24
+Fighter: Fabrício Camões            Glicko2: 1670.21
+Fighter: Isao Tanimura              Glicko2: 1670.2
+Fighter: Che Mills                  Glicko2: 1670.01
+Fighter: Nah-Shon Burrell           Glicko2: 1670.0
+Fighter: Ido Pariente               Glicko2: 1669.93
+Fighter: Oli Thompson               Glicko2: 1669.05
+Fighter: Yoshihiro Nakao            Glicko2: 1668.77
+Fighter: Melvin Yeoh                Glicko2: 1668.6
+Fighter: Dick Vrij                  Glicko2: 1668.56
+Fighter: Andy Ogle                  Glicko2: 1668.38
+Fighter: Norman Paraisy             Glicko2: 1668.33
+Fighter: Ferrid Kheder              Glicko2: 1667.35
+Fighter: Kenji Osawa                Glicko2: 1667.27
+Fighter: Marcos Vinicius (fighter)  Glicko2: 1666.83
+Fighter: Yosdenis Cedeno            Glicko2: 1666.68
+Fighter: Jens Pulver                Glicko2: 1666.68
+Fighter: Tommy Sauer                Glicko2: 1666.28
+Fighter: Tsuyoshi Sudario           Glicko2: 1666.2
+Fighter: Daniel Acacio              Glicko2: 1666.18
+Fighter: Daniel Acácio              Glicko2: 1666.18
+Fighter: Vinicius Moreira           Glicko2: 1666.07
+Fighter: Savant Young               Glicko2: 1665.76
+Fighter: Alex Serdyukov             Glicko2: 1665.66
+Fighter: Sokoudjou                  Glicko2: 1665.59
+Fighter: Josh LaBerge               Glicko2: 1665.24
+Fighter: Rameau Thierry Sokoudjou   Glicko2: 1664.65
+Fighter: John Albert (fighter)      Glicko2: 1664.41
+Fighter: Nick Piedmont              Glicko2: 1664.34
+Fighter: Nam Phan                   Glicko2: 1664.22
+Fighter: Ryan Quinn                 Glicko2: 1664.14
+Fighter: Josh Diekmann              Glicko2: 1663.81
+Fighter: Jared Downing              Glicko2: 1663.59
+Fighter: Alka Matewa                Glicko2: 1663.54
+Fighter: Damien Brown (fighter)     Glicko2: 1663.48
+Fighter: Akihiro Gono               Glicko2: 1663.18
+Fighter: Andy Uhrich                Glicko2: 1662.51
+Fighter: Bojan Mihajlović (fighter) Glicko2: 1662.36
+Fighter: Adam Braidwood             Glicko2: 1662.31
+Fighter: Bas Rutten                 Glicko2: 1662.31
+Fighter: Dolgorsürengiin Serjbüdee  Glicko2: 1662.31
+Fighter: Jean Rivière               Glicko2: 1662.31
+Fighter: Matt Hume                  Glicko2: 1662.31
+Fighter: Paul Jones (mixed martial artist) Glicko2: 1662.31
+Fighter: Pedro Rizzo                Glicko2: 1662.16
+Fighter: Hirotaka Yokoi             Glicko2: 1661.95
+Fighter: Dale Hartt                 Glicko2: 1661.81
+Fighter: Trevin Jones               Glicko2: 1661.52
+Fighter: Alessio Sakara             Glicko2: 1661.17
+Fighter: Jared Papazian             Glicko2: 1660.97
+Fighter: Egan Inoue                 Glicko2: 1660.83
+Fighter: Jani Lax                   Glicko2: 1660.79
+Fighter: Kotetsu Boku               Glicko2: 1660.72
+Fighter: Jeremiah Metcalf           Glicko2: 1660.33
+Fighter: Matt Horwich               Glicko2: 1660.31
+Fighter: Johnny Cisneros            Glicko2: 1660.08
+Fighter: Christian M'Pumbu          Glicko2: 1659.8
+Fighter: Devin Powell               Glicko2: 1659.62
+Fighter: Khadis Ibragimov           Glicko2: 1658.97
+Fighter: Jerrel Venetiaan           Glicko2: 1658.91
+Fighter: George Roop                Glicko2: 1658.51
+Fighter: Yuri Villefort             Glicko2: 1658.47
+Fighter: Jason Tan                  Glicko2: 1657.77
+Fighter: Lodune Sincaid             Glicko2: 1657.72
+Fighter: Jumabieke Tuerxun          Glicko2: 1657.51
+Fighter: Alateng Heili              Glicko2: 1657.13
+Fighter: Bruno Pucci                Glicko2: 1656.73
+Fighter: Eric Esch                  Glicko2: 1656.06
+Fighter: Jason Chambers             Glicko2: 1655.91
+Fighter: Bobby Southworth           Glicko2: 1655.03
+Fighter: Eric Schafer               Glicko2: 1654.45
+Fighter: Yoshiro Maeda              Glicko2: 1654.19
+Fighter: Jess Liaudin               Glicko2: 1654.1
+Fighter: Phil Cardella              Glicko2: 1653.74
+Fighter: Gastón Reyno               Glicko2: 1653.42
+Fighter: Izuru Takeuchi             Glicko2: 1653.37
+Fighter: Wallid Ismail              Glicko2: 1653.13
+Fighter: Masanori Kanehara          Glicko2: 1653.07
+Fighter: Andy Ologun                Glicko2: 1653.02
+Fighter: Lee Murray                 Glicko2: 1652.96
+Fighter: Haruo Ochi                 Glicko2: 1652.62
+Fighter: Eddie Gordon (fighter)     Glicko2: 1652.57
+Fighter: Seth Baczynski             Glicko2: 1652.48
+Fighter: Marcos Oliveira            Glicko2: 1650.21
+Fighter: Cody McKenzie              Glicko2: 1649.98
+Fighter: James Irvin (fighter)      Glicko2: 1649.39
+Fighter: Dan Spohn                  Glicko2: 1649.38
+Fighter: Daniel Spohn               Glicko2: 1649.38
+Fighter: Ian Freeman                Glicko2: 1649.04
+Fighter: Mike Wilkinson (fighter)   Glicko2: 1648.94
+Fighter: Maki Pitolo                Glicko2: 1646.92
+Fighter: Mike Hayes (fighter)       Glicko2: 1646.83
+Fighter: Shamar Bailey              Glicko2: 1646.75
+Fighter: Brad Imes                  Glicko2: 1646.65
+Fighter: Mu Bae Choi                Glicko2: 1646.04
+Fighter: Jordan Espinosa            Glicko2: 1646.04
+Fighter: Jarjis Danho               Glicko2: 1644.52
+Fighter: Naoyuki Kotani             Glicko2: 1644.24
+Fighter: Wesley Correira            Glicko2: 1644.03
+Fighter: Johnny Bedford             Glicko2: 1643.67
+Fighter: Rene Rooze                 Glicko2: 1643.34
+Fighter: Fabio Leopoldo             Glicko2: 1643.11
+Fighter: Evangelista Santos         Glicko2: 1643.02
+Fighter: Simon Carlsen              Glicko2: 1642.87
+Fighter: Zelg Galesic               Glicko2: 1642.67
+Fighter: Zelg Galešic               Glicko2: 1642.67
+Fighter: Zelg Galešić               Glicko2: 1642.67
+Fighter: Roman Zentsov              Glicko2: 1642.66
+Fighter: Virgil Lozano              Glicko2: 1642.43
+Fighter: Josh Haynes                Glicko2: 1642.42
+Fighter: Eric Lawson                Glicko2: 1642.13
+Fighter: Alex Andrade (fighter)     Glicko2: 1641.84
+Fighter: Cortez Coleman             Glicko2: 1641.76
+Fighter: Colton Smith               Glicko2: 1641.32
+Fighter: Fábio Mello                Glicko2: 1641.29
+Fighter: Hiroshi Tsuruya            Glicko2: 1641.25
+Fighter: Gil Castillo               Glicko2: 1641.25
+Fighter: Choi Mu-Bae                Glicko2: 1641.23
+Fighter: Solomon Hutcherson         Glicko2: 1640.87
+Fighter: Anthony Ruiz               Glicko2: 1640.41
+Fighter: Makoto Takimoto            Glicko2: 1640.13
+Fighter: Chris Davis (fighter)      Glicko2: 1639.66
+Fighter: Jorge Ortiz (fighter)      Glicko2: 1639.41
+Fighter: Dave Legeno                Glicko2: 1639.21
+Fighter: Justin Buchholz            Glicko2: 1638.83
+Fighter: Neil Grove                 Glicko2: 1638.76
+Fighter: Takafumi Otsuka            Glicko2: 1638.72
+Fighter: Nick Gonzalez              Glicko2: 1638.49
+Fighter: Kimbo Slice                Glicko2: 1637.81
+Fighter: Dylan Andrews              Glicko2: 1637.73
+Fighter: Mikhail Ilyukhin           Glicko2: 1637.64
+Fighter: Zak Bucia                  Glicko2: 1637.56
+Fighter: Guy Mezger                 Glicko2: 1637.13
+Fighter: Mike Plotcheck             Glicko2: 1636.91
+Fighter: Mike Polchlopek            Glicko2: 1636.91
+Fighter: Brad Blackburn             Glicko2: 1636.16
+Fighter: Phil Harris (fighter)      Glicko2: 1636.04
+Fighter: Kazushi Sakuraba           Glicko2: 1635.89
+Fighter: Chad Reiner                Glicko2: 1635.54
+Fighter: Tiki Ghosn                 Glicko2: 1635.1
+Fighter: Kim Jong-Man               Glicko2: 1634.75
+Fighter: Jeff Hougland              Glicko2: 1634.6
+Fighter: Harris Sarmiento           Glicko2: 1634.53
+Fighter: Mamoru Yamaguchi           Glicko2: 1633.84
+Fighter: Louis Gaudinot             Glicko2: 1633.73
+Fighter: Ruan Potts                 Glicko2: 1633.37
+Fighter: Ryan Gracie                Glicko2: 1633.13
+Fighter: Fabio Mello                Glicko2: 1632.88
+Fighter: Wuliji Buren               Glicko2: 1632.74
+Fighter: Yoon Dong-Sik              Glicko2: 1632.72
+Fighter: Shinya Murofushi           Glicko2: 1632.51
+Fighter: Dan Charles                Glicko2: 1631.54
+Fighter: Rocky Johnson (mixed martial artist) Glicko2: 1630.96
+Fighter: Rafael Dias (mixed martial artist) Glicko2: 1630.7
+Fighter: DaMarques Johnson          Glicko2: 1630.59
+Fighter: Gerald Strebendt           Glicko2: 1630.56
+Fighter: Hayder Hassan              Glicko2: 1629.87
+Fighter: Dong Sik Yoon              Glicko2: 1629.63
+Fighter: Dong-Sik Yoon              Glicko2: 1629.63
+Fighter: Dong-sik Yoon              Glicko2: 1629.63
+Fighter: Vaughan Lee (fighter)      Glicko2: 1629.49
+Fighter: Ivan Salaverry             Glicko2: 1629.15
+Fighter: Samy Schiavo               Glicko2: 1628.42
+Fighter: Hector Ramirez (fighter)   Glicko2: 1628.39
+Fighter: Hideo Tokoro               Glicko2: 1627.97
+Fighter: Nate Mohr                  Glicko2: 1627.95
+Fighter: Mike Kyle                  Glicko2: 1627.43
+Fighter: Eddy Bengtsson             Glicko2: 1626.73
+Fighter: Jong Man Kim               Glicko2: 1626.69
+Fighter: Chris Beal                 Glicko2: 1626.23
+Fighter: Christian Aguilera         Glicko2: 1626.1
+Fighter: Paul Cahoon                Glicko2: 1626.07
+Fighter: Hector Urbina              Glicko2: 1625.88
+Fighter: Lumumba Sayers             Glicko2: 1625.38
+Fighter: Guy Delumeau               Glicko2: 1624.83
+Fighter: Marcus Jones (athlete)     Glicko2: 1624.34
+Fighter: Jon Delos Reyes            Glicko2: 1624.24
+Fighter: Jon delos Reyes            Glicko2: 1624.24
+Fighter: Kevin Casey (fighter)      Glicko2: 1624.09
+Fighter: Neil Seery                 Glicko2: 1623.25
+Fighter: Luke Cummo                 Glicko2: 1623.09
+Fighter: Luis Ramos (fighter)       Glicko2: 1622.59
+Fighter: Héctor Urbina              Glicko2: 1621.39
+Fighter: Rudy Bears                 Glicko2: 1619.84
+Fighter: Thomas Denny (fighter)     Glicko2: 1618.52
+Fighter: Ron Keslar                 Glicko2: 1618.33
+Fighter: Daisuke Nakamura (fighter) Glicko2: 1617.94
+Fighter: Brian Camozzi              Glicko2: 1617.77
+Fighter: Dada 5000                  Glicko2: 1617.39
+Fighter: Hector Aldana              Glicko2: 1617.38
+Fighter: Issei Tamura               Glicko2: 1617.33
+Fighter: Christian Colombo          Glicko2: 1615.85
+Fighter: Pete Spratt                Glicko2: 1615.63
+Fighter: Tedd Williams              Glicko2: 1615.31
+Fighter: Seth Dikun                 Glicko2: 1614.79
+Fighter: Treston Thomison           Glicko2: 1614.49
+Fighter: Donny Walker               Glicko2: 1614.26
+Fighter: Noboru Tahara              Glicko2: 1613.69
+Fighter: Patrick Williams (fighter) Glicko2: 1613.2
+Fighter: Kerry Schall               Glicko2: 1613.1
+Fighter: Mickaël Lebout             Glicko2: 1612.61
+Fighter: Rodrigo Gracie             Glicko2: 1612.0
+Fighter: Bendy Casimir              Glicko2: 1611.37
+Fighter: Lucas Lopes                Glicko2: 1611.14
+Fighter: Roque Martinez             Glicko2: 1610.93
+Fighter: Ryo Kawamura               Glicko2: 1610.51
+Fighter: Clay Harvison              Glicko2: 1610.44
+Fighter: Rob MacDonald              Glicko2: 1610.05
+Fighter: Vernon White (fighter)     Glicko2: 1609.54
+Fighter: Alex Stiebling             Glicko2: 1609.5
+Fighter: Doug Evans (fighter)       Glicko2: 1609.44
+Fighter: Kevin Knabjian             Glicko2: 1607.45
+Fighter: Shane Howell               Glicko2: 1607.44
+Fighter: Marvin Eastman             Glicko2: 1607.27
+Fighter: Diego Saraiva              Glicko2: 1607.14
+Fighter: Renato Verissimo           Glicko2: 1606.64
+Fighter: Shigeki Osawa              Glicko2: 1606.06
+Fighter: Joop Kasteel               Glicko2: 1605.53
+Fighter: Joe Pearson (fighter)      Glicko2: 1605.17
+Fighter: Mikey Gomez                Glicko2: 1604.31
+Fighter: Sean O'Haire               Glicko2: 1603.79
+Fighter: Wes Sims (fighter)         Glicko2: 1602.85
+Fighter: Daiki Hata                 Glicko2: 1601.44
+Fighter: Bashir Ahmad (mixed martial artist) Glicko2: 1601.28
+Fighter: Rolando Dy                 Glicko2: 1601.28
+Fighter: Kenny Foster               Glicko2: 1601.08
+Fighter: Roman Salazar              Glicko2: 1601.02
+Fighter: Jerome Rivera              Glicko2: 1600.11
+Fighter: Phil Baroni                Glicko2: 1600.1
+Fighter: Ki Hyun Kim                Glicko2: 1599.88
+Fighter: Jesus Martinez (fighter)   Glicko2: 1599.88
+Fighter: Vinicius Magalhães (Draculino) Glicko2: 1599.84
+Fighter: Kazuyuki Fujita            Glicko2: 1599.66
+Fighter: Estevan Payan              Glicko2: 1599.56
+Fighter: Yasuhiro Urushitani        Glicko2: 1599.31
+Fighter: Nick Rossborough           Glicko2: 1598.86
+Fighter: Milton Vieira              Glicko2: 1598.56
+Fighter: Dave Vitkay                Glicko2: 1598.41
+Fighter: James Thompson (fighter)   Glicko2: 1597.67
+Fighter: Shannon Wiratchai          Glicko2: 1597.49
+Fighter: James Edson Berto          Glicko2: 1597.32
+Fighter: David Avellan              Glicko2: 1597.31
+Fighter: Brandon Wolff              Glicko2: 1597.0
+Fighter: Guido Cannetti             Glicko2: 1596.98
+Fighter: Walel Watson               Glicko2: 1596.76
+Fighter: Daniel Gallemore           Glicko2: 1596.21
+Fighter: Shinichi Kojima            Glicko2: 1595.37
+Fighter: Jenel Lausa                Glicko2: 1594.78
+Fighter: Taiei Kin                  Glicko2: 1593.82
+Fighter: Pawel Nastula              Glicko2: 1593.34
+Fighter: Paweł Nastula              Glicko2: 1593.34
+Fighter: Kevin Jordan (MMA fighter) Glicko2: 1593.03
+Fighter: Tetsuo Katsuta             Glicko2: 1592.28
+Fighter: Rory Singer                Glicko2: 1591.39
+Fighter: Tsuyoshi Kohsaka           Glicko2: 1591.28
+Fighter: Tsuyoshi Kosaka            Glicko2: 1591.28
+Fighter: Teruto Ishihara            Glicko2: 1590.68
+Fighter: Tim McKenzie               Glicko2: 1590.38
+Fighter: Tetsuji Kato               Glicko2: 1589.97
+Fighter: A.J. Matthews              Glicko2: 1589.12
+Fighter: AJ Matthews                Glicko2: 1589.12
+Fighter: Yuki Shoujou               Glicko2: 1588.98
+Fighter: Dong Hyun Kim (fighter, born 1988) Glicko2: 1586.3
+Fighter: Dong Hyun Ma               Glicko2: 1586.3
+Fighter: Dustin Pague               Glicko2: 1585.86
+Fighter: Rob van Esdonk             Glicko2: 1585.35
+Fighter: Eric Prindle               Glicko2: 1585.06
+Fighter: Yuriy Kochkine             Glicko2: 1584.31
+Fighter: Paul Creighton             Glicko2: 1583.1
+Fighter: Achmed Labasanov           Glicko2: 1582.44
+Fighter: Rodney Faverus             Glicko2: 1582.35
+Fighter: Rodney Glunder             Glicko2: 1582.35
+Fighter: John Polakowski (fighter)  Glicko2: 1581.44
+Fighter: Dave Strasser              Glicko2: 1580.91
+Fighter: Bryan Goldsby              Glicko2: 1580.27
+Fighter: Ning Guangyou              Glicko2: 1580.11
+Fighter: Jérôme Le Banner           Glicko2: 1578.6
+Fighter: Hidetaka Monma             Glicko2: 1578.46
+Fighter: Akihiro Murayama           Glicko2: 1578.35
+Fighter: Raymond Daniels (martial artist) Glicko2: 1577.15
+Fighter: Dennis Olson (mixed martial artist) Glicko2: 1577.14
+Fighter: Houston Alexander          Glicko2: 1576.27
+Fighter: Aaron Miller (mixed martial artist) Glicko2: 1575.99
+Fighter: Chris Dempsey              Glicko2: 1575.67
+Fighter: Akitoshi Tamura            Glicko2: 1574.93
+Fighter: Carl Seumanutafa           Glicko2: 1574.33
+Fighter: Lester Caslow              Glicko2: 1574.11
+Fighter: Jutaro Nakao               Glicko2: 1572.66
+Fighter: Carlton Haselrig           Glicko2: 1572.15
+Fighter: Saeed Ganji                Glicko2: 1571.85
+Fighter: AJ Agazarm                 Glicko2: 1571.47
+Fighter: Blas Avena                 Glicko2: 1570.98
+Fighter: Kiyotaka Shimizu           Glicko2: 1570.06
+Fighter: Gary Turner (fighter)      Glicko2: 1569.53
+Fighter: Justin Levens              Glicko2: 1568.47
+Fighter: Yuki Kondo                 Glicko2: 1568.43
+Fighter: Daniel Lima                Glicko2: 1568.11
+Fighter: Ryuta Sakurai              Glicko2: 1567.54
+Fighter: Yasuhito Namekawa          Glicko2: 1566.41
+Fighter: Jay Silva                  Glicko2: 1566.0
+Fighter: Alberto El Patrón          Glicko2: 1565.21
+Fighter: Dos Caras Jr.              Glicko2: 1564.54
+Fighter: Dos Caras, Jr.             Glicko2: 1564.54
+Fighter: Gideon Ray                 Glicko2: 1563.9
+Fighter: Brian Warren               Glicko2: 1563.45
+Fighter: Keisuke Fujiwara           Glicko2: 1559.31
+Fighter: Yuki Sasaki (mixed martial artist) Glicko2: 1558.82
+Fighter: Nino Schembri              Glicko2: 1558.81
+Fighter: David Douglas (fighter)    Glicko2: 1557.2
+Fighter: Naoya Uematsu              Glicko2: 1556.38
+Fighter: Mostapha Al-turk           Glicko2: 1556.13
+Fighter: Mostapha al-Turk           Glicko2: 1556.13
+Fighter: Dustin Neace               Glicko2: 1556.09
+Fighter: Gota Yamashita             Glicko2: 1554.93
+Fighter: Tomonari Kanomata          Glicko2: 1554.66
+Fighter: Maurice Smith (kickboxer)  Glicko2: 1554.47
+Fighter: Shuichiro Katsumura        Glicko2: 1553.62
+Fighter: Jorge Britto               Glicko2: 1553.01
+Fighter: Masanori Suda              Glicko2: 1552.41
+Fighter: Junji Ito (fighter)        Glicko2: 1552.33
+Fighter: Kit Cope                   Glicko2: 1552.11
+Fighter: Kiuma Kunioku              Glicko2: 1552.07
+Fighter: Brian Gassaway             Glicko2: 1551.63
+Fighter: Kazuya Abe                 Glicko2: 1551.52
+Fighter: Robson Moura               Glicko2: 1549.68
+Fighter: Waachiim Spiritwolf        Glicko2: 1548.11
+Fighter: Naoya Ogawa                Glicko2: 1547.46
+Fighter: J.P. Reese                 Glicko2: 1546.2
+Fighter: Masayuki Naruse            Glicko2: 1546.09
+Fighter: Matt Arroyo                Glicko2: 1545.84
+Fighter: Ricardo Morais             Glicko2: 1545.79
+Fighter: Herman van Tol             Glicko2: 1545.67
+Fighter: Keiichiro Yamamiya         Glicko2: 1545.48
+Fighter: Masahiro Oishi             Glicko2: 1545.36
+Fighter: Akira Kibe                 Glicko2: 1545.03
+Fighter: Zuluzinho                  Glicko2: 1544.12
+Fighter: Matt Jones (mixed martial artist) Glicko2: 1544.06
+Fighter: Mark Weir                  Glicko2: 1544.04
+Fighter: Rolando Perez              Glicko2: 1543.89
+Fighter: Rumina Sato                Glicko2: 1543.64
+Fighter: Matt Van Buren             Glicko2: 1542.25
+Fighter: Keith Berry (fighter)      Glicko2: 1541.63
+Fighter: Sander Thonhauser          Glicko2: 1540.71
+Fighter: Seichi Ikemoto             Glicko2: 1539.18
+Fighter: Andre Roberts (mixed martial artist) Glicko2: 1538.44
+Fighter: Joe Schilling              Glicko2: 1538.14
+Fighter: LaVerne Clark              Glicko2: 1537.8
+Fighter: Laverne Clark              Glicko2: 1537.8
+Fighter: Hidehiko Yoshida           Glicko2: 1537.56
+Fighter: Marcio Navarro             Glicko2: 1537.48
+Fighter: Namiki Kawahara            Glicko2: 1537.25
+Fighter: Kozo Urita                 Glicko2: 1536.78
+Fighter: Masaki Nishizawa           Glicko2: 1536.41
+Fighter: Ryan Thomas (fighter)      Glicko2: 1536.38
+Fighter: Rick Cheek                 Glicko2: 1535.82
+Fighter: Reuben Duran               Glicko2: 1534.15
+Fighter: Sam Greco                  Glicko2: 1533.34
+Fighter: Luke Caudillo              Glicko2: 1531.8
+Fighter: Taisuke Okuno              Glicko2: 1531.39
+Fighter: Daniel Gracie              Glicko2: 1531.25
+Fighter: Takenori Sato              Glicko2: 1530.77
+Fighter: Vik Grujic                 Glicko2: 1529.95
+Fighter: Fabiano Scherner           Glicko2: 1529.02
+Fighter: Andrews Nakahara           Glicko2: 1526.76
+Fighter: Chris Haseman              Glicko2: 1526.05
+Fighter: Popek                      Glicko2: 1525.2
+Fighter: Hayate Usui                Glicko2: 1524.54
+Fighter: Hideki Kadowaki            Glicko2: 1523.18
+Fighter: Olaf Alfonso               Glicko2: 1522.9
+Fighter: Tony Hervey                Glicko2: 1522.82
+Fighter: Makoto Ishikawa            Glicko2: 1521.61
+Fighter: Aaron Brink                Glicko2: 1521.46
+Fighter: Kevin Roddy                Glicko2: 1521.38
+Fighter: Saburo Kawakatsu           Glicko2: 1520.82
+Fighter: Uchu Tatsumi               Glicko2: 1518.91
+Fighter: Shiko Yamashita            Glicko2: 1517.43
+Fighter: Jason Von Flue             Glicko2: 1517.32
+Fighter: Pete Williams (fighter)    Glicko2: 1516.7
+Fighter: Sander MacKilljan          Glicko2: 1516.54
+Fighter: Borislav Jeliazkov         Glicko2: 1514.46
+Fighter: Katsuhiko Nagata           Glicko2: 1512.88
+Fighter: Junya Kodo                 Glicko2: 1512.71
+Fighter: Amir Rahnavardi            Glicko2: 1512.14
+Fighter: Tim Lajcik                 Glicko2: 1511.74
+Fighter: James McSweeney            Glicko2: 1510.55
+Fighter: Justin Baesman             Glicko2: 1507.0
+Fighter: Adam Cella                 Glicko2: 1505.57
+Fighter: Masaya Inoue               Glicko2: 1505.29
+Fighter: Shinobu Ota                Glicko2: 1505.04
+Fighter: Takuya Wada (mixed martial artist) Glicko2: 1503.73
+Fighter: Ronald Jhun                Glicko2: 1502.48
+Fighter: John Ott (fighter)         Glicko2: 1501.12
+Fighter: Abubakar Nurmagomedov      Glicko2: 1500
+Fighter: Akira Maeda                Glicko2: 1500
+Fighter: Aleksei Oleinik            Glicko2: 1500
+Fighter: Alex Nicholson (fighter)   Glicko2: 1500
+Fighter: Alex Schoenauer            Glicko2: 1500
+Fighter: Alexey Oleinik             Glicko2: 1500
+Fighter: Alexey Oleynik             Glicko2: 1500
+Fighter: Ali Isaev                  Glicko2: 1500
+Fighter: Alistair Overeem           Glicko2: 1500
+Fighter: Anderson Silva             Glicko2: 1500
+Fighter: Andre Harrison             Glicko2: 1500
+Fighter: Andre Mannaart             Glicko2: 1500
+Fighter: Andreas Michailidis        Glicko2: 1500
+Fighter: Andy Souwer                Glicko2: 1500
+Fighter: Antônio Rodrigo Nogueira   Glicko2: 1500
+Fighter: Art Jimmerson              Glicko2: 1500
+Fighter: Bart Vale                  Glicko2: 1500
+Fighter: Bazigit Atajev             Glicko2: 1500
+Fighter: Ben Neumann                Glicko2: 1500
+Fighter: Ben Rothwell               Glicko2: 1500
+Fighter: Bobby Hoffman              Glicko2: 1500
+Fighter: Bojan Veličković           Glicko2: 1500
+Fighter: Bozigit Ataev              Glicko2: 1500
+Fighter: Brandon Melendez           Glicko2: 1500
+Fighter: Brian Foster (fighter)     Glicko2: 1500
+Fighter: Brock Larson               Glicko2: 1500
+Fighter: Caio Alencar               Glicko2: 1500
+Fighter: Carlos Condit              Glicko2: 1500
+Fighter: Carrington Banks           Glicko2: 1500
+Fighter: Catalin Zmarandescu        Glicko2: 1500
+Fighter: Chael Sonnen               Glicko2: 1500
+Fighter: Chan Sung Jung             Glicko2: 1500
+Fighter: Charles Oliveira           Glicko2: 1500
+Fighter: Chris Brennan              Glicko2: 1500
+Fighter: Chris Dolman               Glicko2: 1500
+Fighter: Chris Wade (fighter)       Glicko2: 1500
+Fighter: Craig Pumphrey             Glicko2: 1500
+Fighter: Cătălin Zmărăndescu        Glicko2: 1500
+Fighter: Dan Henderson              Glicko2: 1500
+Fighter: Dan Severn                 Glicko2: 1500
+Fighter: Daniel Omielanczuk         Glicko2: 1500
+Fighter: Daniel Omielańczuk         Glicko2: 1500
+Fighter: Daniel Pineda (fighter)    Glicko2: 1500
+Fighter: Danny Tims                 Glicko2: 1500
+Fighter: Dashon Johnson             Glicko2: 1500
+Fighter: Dave Beneteau              Glicko2: 1500
+Fighter: David Abbott (mixed martial artist) Glicko2: 1500
+Fighter: David Michaud              Glicko2: 1500
+Fighter: Demian Maia                Glicko2: 1500
+Fighter: Denis Kang                 Glicko2: 1500
+Fighter: Dennis Hallman             Glicko2: 1500
+Fighter: Dmitry Poberezhets         Glicko2: 1500
+Fighter: Don Frye                   Glicko2: 1500
+Fighter: Donald Sanchez             Glicko2: 1500.0
+Fighter: Edwin Dewees               Glicko2: 1500
+Fighter: Eiji Mizuno                Glicko2: 1500
+Fighter: Emmanuel Yarborough        Glicko2: 1500
+Fighter: Evan Tanner                Glicko2: 1500
+Fighter: Fabiano Iha                Glicko2: 1500
+Fighter: Fedor Emelianenko          Glicko2: 1500
+Fighter: Felix Mitchell (fighter)   Glicko2: 1500
+Fighter: Francimar Barroso          Glicko2: 1500
+Fighter: Francis Ngannou            Glicko2: 1500
+Fighter: Francisco Rivera (fighter) Glicko2: 1500
+Fighter: Francois Botha             Glicko2: 1500
+Fighter: Frank Shamrock             Glicko2: 1500
+Fighter: Gary Goodridge             Glicko2: 1500
+Fighter: Gilbert Yvel               Glicko2: 1500
+Fighter: Grant Dawson               Glicko2: 1500
+Fighter: Harold Howard              Glicko2: 1500
+Fighter: Heath Herring              Glicko2: 1500
+Fighter: Hiroaki Matsutani          Glicko2: 1500
+Fighter: Hiroyuki Kojima            Glicko2: 1500
+Fighter: Humberto Bandenay          Glicko2: 1500
+Fighter: Igor Vovchanchyn           Glicko2: 1500
+Fighter: Ikuhisa Minowa             Glicko2: 1500
+Fighter: Isamu Osugi                Glicko2: 1500
+Fighter: Islam Mamedov              Glicko2: 1500
+Fighter: Jacob Ortiz                Glicko2: 1500
+Fighter: James Warring              Glicko2: 1500
+Fighter: Jan Blachowicz             Glicko2: 1500
+Fighter: Jan Błachowicz             Glicko2: 1500
+Fighter: Jared Rosholt              Glicko2: 1500
+Fighter: Jarrod Bunch               Glicko2: 1500
+Fighter: Jason Geiger               Glicko2: 1500
+Fighter: Javier Vazquez (fighter)   Glicko2: 1500
+Fighter: Jean Jacques Machado       Glicko2: 1500
+Fighter: Jeremy Kennedy             Glicko2: 1500
+Fighter: Jerry Bohlander            Glicko2: 1500
+Fighter: Jiří Procházka             Glicko2: 1500
+Fighter: Joe Stevenson              Glicko2: 1500
+Fighter: John Howard (fighter)      Glicko2: 1500
+Fighter: Johnny Eduardo             Glicko2: 1500
+Fighter: Johnny Rhodes (fighter)    Glicko2: 1500
+Fighter: Jon Fitch                  Glicko2: 1500
+Fighter: Jon Hess (fighter)         Glicko2: 1500
+Fighter: Jordan Johnson (fighter)   Glicko2: 1500
+Fighter: Jorge Patino               Glicko2: 1500
+Fighter: Jung Chan-Sung             Glicko2: 1500
+Fighter: Kazuhiro Kusayanagi        Glicko2: 1500
+Fighter: Kazuhiro Sakamoto          Glicko2: 1500
+Fighter: Keith Hackney              Glicko2: 1500
+Fighter: Kelly Dullanty             Glicko2: 1500
+Fighter: Kelvin Tiller              Glicko2: 1500
+Fighter: Ken Shamrock               Glicko2: 1500
+Fighter: Kendo Nagasaki             Glicko2: 1500
+Fighter: Kenichi Tanaka             Glicko2: 1500
+Fighter: Kenji Ogusu                Glicko2: 1500
+Fighter: Kevin Jackson              Glicko2: 1500
+Fighter: Kevin Randleman            Glicko2: 1500
+Fighter: Kevin Rosier               Glicko2: 1500
+Fighter: Khabib Nurmagomedov        Glicko2: 1500
+Fighter: Khetag Pliev               Glicko2: 1500
+Fighter: Kiyoshi Tamura             Glicko2: 1500
+Fighter: Kleber Koike Erbst         Glicko2: 1500
+Fighter: Kohei Sato                 Glicko2: 1500
+Fighter: Koichiro Kimura            Glicko2: 1500
+Fighter: Kristian Rothaermel        Glicko2: 1500
+Fighter: Kyoji Horiguchi            Glicko2: 1500
+Fighter: Kyuhei Ueno                Glicko2: 1500
+Fighter: Lance Palmer               Glicko2: 1500
+Fighter: Lloyd van Dams             Glicko2: 1500
+Fighter: Louis Taylor               Glicko2: 1500
+Fighter: Luis Eduardo Fraga         Glicko2: 1500
+Fighter: Luis Palomino              Glicko2: 1500
+Fighter: Mamoru Yamamoto            Glicko2: 1500
+Fighter: Marco Ruas                 Glicko2: 1500
+Fighter: Marcus Bossett             Glicko2: 1500
+Fighter: Mark Coleman               Glicko2: 1500
+Fighter: Mark Hall (fighter)        Glicko2: 1500
+Fighter: Masashi Takeda             Glicko2: 1500
+Fighter: Masato Suzuki              Glicko2: 1500
+Fighter: Mauricio Rua               Glicko2: 1500
+Fighter: Maurício Rua               Glicko2: 1500
+Fighter: Maxim Grishin              Glicko2: 1500
+Fighter: Michihiro Omigawa          Glicko2: 1500
+Fighter: Mike Maurer                Glicko2: 1500
+Fighter: Mike Van Arsdale           Glicko2: 1500
+Fighter: Mike van Arsdale           Glicko2: 1500
+Fighter: Mikey Burnett              Glicko2: 1500
+Fighter: Mirko Cro Cop              Glicko2: 1500
+Fighter: Mirko Filipović            Glicko2: 1500
+Fighter: Misaki Kubota              Glicko2: 1500
+Fighter: Mitsuhiro Sakamoto         Glicko2: 1500
+Fighter: Mitsuo Fujikura            Glicko2: 1500
+Fighter: Mitsuya Nagai              Glicko2: 1500
+Fighter: Muhammed Lawal             Glicko2: 1500
+Fighter: Naoki Sakurada             Glicko2: 1500
+Fighter: Nikolai Zouev              Glicko2: 1500
+Fighter: Oleg Taktarov              Glicko2: 1500
+Fighter: Oleksiy Oliynyk            Glicko2: 1500
+Fighter: Pat Miletich               Glicko2: 1500
+Fighter: Patricky Freire            Glicko2: 1500
+Fighter: Paul Varelans              Glicko2: 1500
+Fighter: Paulo Thiago               Glicko2: 1500
+Fighter: Pedro Palm                 Glicko2: 1500
+Fighter: Philipe Lins               Glicko2: 1500
+Fighter: Priscus Fogagnolo          Glicko2: 1500
+Fighter: Quinton Jackson            Glicko2: 1500
+Fighter: Rafael Cordeiro            Glicko2: 1500
+Fighter: Rafael dos Anjos           Glicko2: 1500
+Fighter: Randy Couture              Glicko2: 1500
+Fighter: Rashad Evans               Glicko2: 1500
+Fighter: Rashid Magomedov           Glicko2: 1500
+Fighter: Remco Pardoel              Glicko2: 1500
+Fighter: Ricardo Botelho            Glicko2: 1500
+Fighter: Ricco Rodriguez            Glicko2: 1500
+Fighter: Rickson Gracie             Glicko2: 1500
+Fighter: Roan Carneiro              Glicko2: 1500
+Fighter: Roberto Yong               Glicko2: 1500
+Fighter: Roger Huerta               Glicko2: 1500
+Fighter: Ron Balicki                Glicko2: 1500
+Fighter: Ron van Clief              Glicko2: 1500
+Fighter: Ross Pointon               Glicko2: 1500
+Fighter: Roy Nelson (fighter)       Glicko2: 1500
+Fighter: Royce Alger                Glicko2: 1500
+Fighter: Royce Gracie               Glicko2: 1500
+Fighter: Ryan Bow                   Glicko2: 1500
+Fighter: Saad Awad                  Glicko2: 1500
+Fighter: Satoshi Fujisaki           Glicko2: 1500
+Fighter: Satoshi Fukuoka            Glicko2: 1500
+Fighter: Scott Ferrozzo             Glicko2: 1500
+Fighter: Sean O'Connell (fighter)   Glicko2: 1500
+Fighter: Sergei Kharitonov          Glicko2: 1500
+Fighter: Shonie Carter              Glicko2: 1500
+Fighter: Shooto Watanabe            Glicko2: 1500
+Fighter: Smealinho Rama             Glicko2: 1500
+Fighter: Stanoy Tabakov             Glicko2: 1500
+Fighter: Steve Berger               Glicko2: 1500
+Fighter: Steve Jennum               Glicko2: 1500
+Fighter: Steve Nelmark              Glicko2: 1500
+Fighter: Steven Siler               Glicko2: 1500
+Fighter: Suguru Shigeno             Glicko2: 1500
+Fighter: Tadashi Murakami           Glicko2: 1500
+Fighter: Tait Fletcher              Glicko2: 1500
+Fighter: Taka Michinoku             Glicko2: 1500
+Fighter: Takashi Ishizaki           Glicko2: 1500
+Fighter: Takashi Nishizawa          Glicko2: 1500
+Fighter: Takashi Tojo               Glicko2: 1500
+Fighter: Takenori Ito               Glicko2: 1500
+Fighter: Takeshi Miyanaga           Glicko2: 1500
+Fighter: Tank Abbott                Glicko2: 1500
+Fighter: Teila Tuli                 Glicko2: 1500
+Fighter: Tetsuo Yokoyama            Glicko2: 1500
+Fighter: Thiago Santos (heavyweight fighter) Glicko2: 1500
+Fighter: Thiago Tavares             Glicko2: 1500
+Fighter: Tito Ortiz                 Glicko2: 1500
+Fighter: Todd Bjornethun            Glicko2: 1500
+Fighter: Tomoaki Hayama             Glicko2: 1500
+Fighter: Tomoyuki Saito             Glicko2: 1500
+Fighter: Tony Fryklund              Glicko2: 1500
+Fighter: Tony Halme                 Glicko2: 1500
+Fighter: Toru Koga                  Glicko2: 1500
+Fighter: Travis Wiuff               Glicko2: 1500
+Fighter: Vagab Vagabov              Glicko2: 1500
+Fighter: Vinny Magalhães            Glicko2: 1500
+Fighter: Vitor Belfort              Glicko2: 1500
+Fighter: Wanderlei Silva            Glicko2: 1500
+Fighter: Yancho Dimitrov            Glicko2: 1500
+Fighter: Yaroslav Amosov            Glicko2: 1500
+Fighter: Yasunori Okuda             Glicko2: 1500
+Fighter: Yasushi Warita             Glicko2: 1500
+Fighter: Yasuto Sekishima           Glicko2: 1500
+Fighter: Yoshimasa Ishikawa         Glicko2: 1500
+Fighter: Yoshiyuki Takayama         Glicko2: 1500
+Fighter: Yuichi Watanabe            Glicko2: 1500
+Fighter: Yuji Fujita                Glicko2: 1500
+Fighter: Yuji Ito (fighter)         Glicko2: 1500
+Fighter: Yuki Nakai                 Glicko2: 1500
+Fighter: Yutaka Fuji                Glicko2: 1500
+Fighter: Yuzo Tateishi              Glicko2: 1500
+Fighter: Zhalgas Zhumagulov         Glicko2: 1500
+Fighter: Łukasz Parobiec            Glicko2: 1500
+Fighter: Big Mo T                   Glicko2: 1500.0
+Fighter: Willie Peeters             Glicko2: 1500.0
+Fighter: Hiroshi Umemura            Glicko2: 1499.54
+Fighter: Josh Burns                 Glicko2: 1499.52
+Fighter: Isao Kobayashi             Glicko2: 1499.44
+Fighter: Jimmy Ambriz               Glicko2: 1497.94
+Fighter: Alexander Trevino          Glicko2: 1497.56
+Fighter: Joe Moreira                Glicko2: 1497.45
+Fighter: Anthony Macias             Glicko2: 1496.12
+Fighter: Wataru Sakata              Glicko2: 1495.72
+Fighter: Daiju Takase               Glicko2: 1495.0
+Fighter: Sean Salmon                Glicko2: 1491.91
+Fighter: Bobby Ologun               Glicko2: 1491.82
+Fighter: Corey Hill                 Glicko2: 1490.9
+Fighter: Erick Wanderley            Glicko2: 1490.88
+Fighter: Erik Wanderley             Glicko2: 1490.88
+Fighter: Ricardo Fyeet              Glicko2: 1489.8
+Fighter: Jeremiah Riggs             Glicko2: 1489.27
+Fighter: Sean Alvarez               Glicko2: 1489.12
+Fighter: Kenji Kawaguchi            Glicko2: 1488.5
+Fighter: Ebenezer Fontes Braga      Glicko2: 1488.49
+Fighter: Artem Lobov                Glicko2: 1487.78
+Fighter: Valentijn Overeem          Glicko2: 1487.54
+Fighter: Shunichi Shimizu           Glicko2: 1486.67
+Fighter: Fatih Kocamis              Glicko2: 1485.38
+Fighter: Yoshiki Takahashi (mixed martial artist) Glicko2: 1485.3
+Fighter: Kazuhiro Hamanaka          Glicko2: 1484.57
+Fighter: Kazuo Takahashi            Glicko2: 1483.75
+Fighter: Iouri Bekichev             Glicko2: 1483.22
+Fighter: Jason Guida                Glicko2: 1482.91
+Fighter: Zach Light                 Glicko2: 1481.07
+Fighter: Yukinari Tamura            Glicko2: 1480.79
+Fighter: Carter Williams            Glicko2: 1478.96
+Fighter: Bernard Ackah              Glicko2: 1478.54
+Fighter: Baret Yoshida              Glicko2: 1477.24
+Fighter: Renzo Gracie               Glicko2: 1476.43
+Fighter: Takumi Nakayama            Glicko2: 1475.74
+Fighter: Herb Dean                  Glicko2: 1475.15
+Fighter: Heath Sims                 Glicko2: 1475.07
+Fighter: Katsuya Toida              Glicko2: 1475.02
+Fighter: Yokthai Sithoar            Glicko2: 1474.94
+Fighter: Choi Hong-man              Glicko2: 1473.81
+Fighter: Hong Man Choi              Glicko2: 1473.81
+Fighter: Wataru Miki                Glicko2: 1472.68
+Fighter: Akira Shoji                Glicko2: 1471.91
+Fighter: Shungo Oyama               Glicko2: 1471.2
+Fighter: Cody Carrillo              Glicko2: 1470.68
+Fighter: Emil Kristev               Glicko2: 1469.86
+Fighter: Hisao Ikeda                Glicko2: 1468.09
+Fighter: Allan Weickert             Glicko2: 1467.35
+Fighter: Charles Dera               Glicko2: 1466.39
+Fighter: Yukio Sakaguchi            Glicko2: 1466.28
+Fighter: Kimihito Nonaka            Glicko2: 1464.3
+Fighter: Kimo Leopoldo              Glicko2: 1462.0
+Fighter: Jay Haas (mixed martial artist) Glicko2: 1460.3
+Fighter: Kohei Yasumi               Glicko2: 1459.98
+Fighter: Zaza Tkeshelashvili        Glicko2: 1457.64
+Fighter: Ray Sefo                   Glicko2: 1457.63
+Fighter: Tim Catalfo                Glicko2: 1454.04
+Fighter: Ousmane Thomas Diagne      Glicko2: 1452.01
+Fighter: Jay White (fighter)        Glicko2: 1451.62
+Fighter: Carlos Newton              Glicko2: 1450.97
+Fighter: Masayuki Kono              Glicko2: 1450.81
+Fighter: Alex Reid (fighter)        Glicko2: 1450.77
+Fighter: Brylan Van Artsdalen       Glicko2: 1450.0
+Fighter: Hikaru Sato                Glicko2: 1447.69
+Fighter: Charles Bennett (fighter)  Glicko2: 1447.61
+Fighter: Lance Gibson               Glicko2: 1441.3
+Fighter: Rick Roufus                Glicko2: 1440.08
+Fighter: Malaipet                   Glicko2: 1438.65
+Fighter: Malaipet Sasiprapa         Glicko2: 1438.65
+Fighter: Sherman Pendergarst        Glicko2: 1436.73
+Fighter: Barrington Patterson       Glicko2: 1436.29
+Fighter: Barrington Renford Patterson Glicko2: 1436.29
+Fighter: Takaharu Murahama          Glicko2: 1435.84
+Fighter: Gokhan Saki                Glicko2: 1434.61
+Fighter: Gökhan Saki                Glicko2: 1434.61
+Fighter: Joe Slick                  Glicko2: 1432.54
+Fighter: Alan Karaev                Glicko2: 1427.85
+Fighter: Norio Nishiyama            Glicko2: 1427.52
+Fighter: Harry Moskowitz            Glicko2: 1426.51
+Fighter: Yohei Suzuki               Glicko2: 1426.42
+Fighter: Yuji Sakuragi              Glicko2: 1422.5
+Fighter: Elvis Sinosic              Glicko2: 1421.98
+Fighter: Dan Quinn (fighter)        Glicko2: 1421.75
+Fighter: Jaideep Singh              Glicko2: 1420.46
+Fighter: Edward Faaloloto           Glicko2: 1420.23
+Fighter: Yao Zhikui                 Glicko2: 1419.57
+Fighter: Mitsuo Matsumoto           Glicko2: 1419.0
+Fighter: Mike Dolce                 Glicko2: 1418.95
+Fighter: Wojciech Orłowski          Glicko2: 1418.68
+Fighter: Carlos Barreto (fighter)   Glicko2: 1414.12
+Fighter: Zane Frazier               Glicko2: 1412.06
+Fighter: Tariel Bitsadze            Glicko2: 1411.33
+Fighter: Dave van der Veen          Glicko2: 1409.41
+Fighter: Bob Schrijber              Glicko2: 1409.04
+Fighter: Naoki Sano                 Glicko2: 1406.53
+Fighter: Yuhi Sano                  Glicko2: 1406.53
+Fighter: Tra Telligman              Glicko2: 1405.63
+Fighter: Ian James Schaffa          Glicko2: 1403.6
+Fighter: Ian Schaffa                Glicko2: 1403.6
+Fighter: Junji Ikoma                Glicko2: 1403.55
+Fighter: Yoshihiro Takayama         Glicko2: 1400.7
+Fighter: Kazunari Murakami          Glicko2: 1400.46
+Fighter: Shannon Ritch              Glicko2: 1400.15
+Fighter: Viacheslav Datsik          Glicko2: 1398.05
+Fighter: Takuya Kuwabara            Glicko2: 1397.57
+Fighter: Brian Lo-A-Njoe            Glicko2: 1396.34
+Fighter: Ronny Rivano               Glicko2: 1396.32
+Fighter: Ameran Bitsadze            Glicko2: 1396.06
+Fighter: Fumio Usami                Glicko2: 1393.41
+Fighter: Giant Ochiai               Glicko2: 1393.06
+Fighter: Michael Westbrook          Glicko2: 1392.35
+Fighter: Roberto Traven             Glicko2: 1390.75
+Fighter: Daiji Takahashi            Glicko2: 1390.19
+Fighter: Joao Assis                 Glicko2: 1389.36
+Fighter: João Assis                 Glicko2: 1389.36
+Fighter: Jan Nortje                 Glicko2: 1388.86
+Fighter: Jushin Thunder Liger       Glicko2: 1386.39
+Fighter: Royler Gracie              Glicko2: 1379.03
+Fighter: Tom Erikson                Glicko2: 1375.83
+Fighter: Andrei Kopylov             Glicko2: 1375.46
+Fighter: Akihiko Adachi             Glicko2: 1375.04
+Fighter: Hiroyuki Abe (mixed martial artist) Glicko2: 1374.58
+Fighter: Bob Sapp                   Glicko2: 1374.16
+Fighter: Jin Akimoto                Glicko2: 1368.55
+Fighter: Jesse Taitano              Glicko2: 1368.34
+Fighter: Koji Takeuchi              Glicko2: 1367.25
+Fighter: Antz Nansen                Glicko2: 1360.8
+Fighter: Alain Ngalani              Glicko2: 1360.54
+Fighter: Kim Min-Soo (judoka)       Glicko2: 1359.09
+Fighter: Takashi Sugiura            Glicko2: 1357.85
+Fighter: Alexander Otsuka           Glicko2: 1356.81
+Fighter: Hiromitsu Kanehara         Glicko2: 1351.95
+Fighter: Larry Papadopoulos         Glicko2: 1348.71
+Fighter: Martijn de Jong            Glicko2: 1347.53
+Fighter: Johnnie Morton             Glicko2: 1347.15
+Fighter: Ryuki Ueyama               Glicko2: 1344.64
+Fighter: Naoto Kojima               Glicko2: 1344.62
+Fighter: Ismael Gonzalez (fighter)  Glicko2: 1343.82
+Fighter: Masutatsu Yano             Glicko2: 1342.36
+Fighter: Jun Kitagawa               Glicko2: 1340.96
+Fighter: Enson Inoue                Glicko2: 1340.47
+Fighter: Masakatsu Funaki           Glicko2: 1339.33
+Fighter: Hiroaki Yoshioka           Glicko2: 1339.21
+Fighter: Bakouri Gogitidze          Glicko2: 1337.69
+Fighter: Chandet Sorpantrey         Glicko2: 1337.69
+Fighter: David Khakhaleishvili      Glicko2: 1337.69
+Fighter: Eugenio Tadeu              Glicko2: 1337.69
+Fighter: Fabio Pinca                Glicko2: 1337.69
+Fighter: Fernando Augusto           Glicko2: 1337.69
+Fighter: Fernando Terere            Glicko2: 1337.69
+Fighter: Joe Charles                Glicko2: 1337.69
+Fighter: Julius Francis             Glicko2: 1337.69
+Fighter: Kazuhisa Watanabe          Glicko2: 1337.69
+Fighter: Manabu Yamada              Glicko2: 1337.69
+Fighter: Marcelo Aguiar             Glicko2: 1337.69
+Fighter: Matt Ghaffari              Glicko2: 1337.69
+Fighter: Nick Mitchell              Glicko2: 1337.69
+Fighter: Osunaarashi                Glicko2: 1337.69
+Fighter: Richie Cranny              Glicko2: 1337.69
+Fighter: Tomohiro Tanaka (mixed martial artist) Glicko2: 1337.69
+Fighter: Trent Jenkins              Glicko2: 1337.69
+Fighter: Katsuhisa Fujii            Glicko2: 1333.76
+Fighter: John Lober                 Glicko2: 1329.87
+Fighter: Hugo Duarte                Glicko2: 1327.51
+Fighter: Jason Barrett (actor)      Glicko2: 1325.72
+Fighter: Kazuhiro Inoue             Glicko2: 1325.46
+Fighter: Anthony Hamlett            Glicko2: 1320.96
+Fighter: Kazumichi Takada           Glicko2: 1320.85
+Fighter: Naoki Matsushita (mixed martial artist) Glicko2: 1317.06
+Fighter: Giant Silva                Glicko2: 1315.74
+Fighter: Paulo Cesar Silva          Glicko2: 1315.4
+Fighter: Yoshihisa Yamamoto (wrestler) Glicko2: 1314.31
+Fighter: Mark Kerr (fighter)        Glicko2: 1313.83
+Fighter: Katsuyori Shibata          Glicko2: 1313.45
+Fighter: Hiroya Takada              Glicko2: 1312.01
+Fighter: Johil de Oliveira          Glicko2: 1308.61
+Fighter: CM Punk                    Glicko2: 1304.35
+Fighter: Noboru Asahi               Glicko2: 1304.35
+Fighter: Daijiro Matsui             Glicko2: 1293.63
+Fighter: Ryoji Sai                  Glicko2: 1291.16
+Fighter: Jung Bu-Kyung              Glicko2: 1288.76
+Fighter: Takeyasu Hirono            Glicko2: 1288.27
+Fighter: Satoshi Honma              Glicko2: 1287.51
+Fighter: Martin Lazarov             Glicko2: 1285.45
+Fighter: Ryushi Yanagisawa          Glicko2: 1284.34
+Fighter: Yoshinobu Ota              Glicko2: 1283.25
+Fighter: Cyril Abidi                Glicko2: 1279.64
+Fighter: Peter Verschuren           Glicko2: 1277.14
+Fighter: Mamoru Okochi              Glicko2: 1276.06
+Fighter: Takayuki Okochi            Glicko2: 1274.9
+Fighter: Eduardo Maiorino           Glicko2: 1272.44
+Fighter: Kenichi Sawada             Glicko2: 1270.42
+Fighter: Matt Skelton               Glicko2: 1267.74
+Fighter: Katsuhisa Akasaki          Glicko2: 1266.12
+Fighter: Yosuke Nishijima           Glicko2: 1265.93
+Fighter: Chikara Miyake             Glicko2: 1265.46
+Fighter: Henry Armstrong Miller     Glicko2: 1262.37
+Fighter: Sentoryu Henri             Glicko2: 1262.37
+Fighter: Tomohiko Hashimoto         Glicko2: 1259.13
+Fighter: Herman Renting             Glicko2: 1254.9
+Fighter: Christophe Leininger       Glicko2: 1249.46
+Fighter: Rony Sefo                  Glicko2: 1249.46
+Fighter: Yoshiaki Yatsu             Glicko2: 1249.46
+Fighter: Masato Fujiwara            Glicko2: 1239.84
+Fighter: Rick Rootlieb              Glicko2: 1238.6
+Fighter: Alexandre Dantas           Glicko2: 1236.17
+Fighter: Tokimitsu Ishizawa         Glicko2: 1236.03
+Fighter: Ken Kaneko                 Glicko2: 1235.88
+Fighter: Yukio Kawabe               Glicko2: 1234.86
+Fighter: Masashi Kameda             Glicko2: 1233.91
+Fighter: Yoji Anjo                  Glicko2: 1228.95
+Fighter: Joe Son                    Glicko2: 1226.8
+Fighter: Kendo Kashin               Glicko2: 1226.74
+Fighter: Hans Nijman                Glicko2: 1226.68
+Fighter: Hiroki Kita                Glicko2: 1209.63
+Fighter: Wakashoyo                  Glicko2: 1208.63
+Fighter: Wakashoyo Shunichi         Glicko2: 1208.63
+Fighter: Yoichi Babaguchi           Glicko2: 1208.63
+Fighter: Jason DeLucia              Glicko2: 1202.97
+Fighter: Jason Delucia              Glicko2: 1202.97
+Fighter: Bob Gilstrap               Glicko2: 1194.81
+Fighter: Masaru Gokita              Glicko2: 1183.7
+Fighter: Tomonori Ohara             Glicko2: 1176.16
+Fighter: Masakazu Kuramochi         Glicko2: 1162.79
+Fighter: Shawn Tompkins             Glicko2: 1160.65
+Fighter: Hiroki Kotani              Glicko2: 1158.72
+Fighter: Masaaki Satake             Glicko2: 1158.59
+Fighter: Sam Adkins (fighter)       Glicko2: 1153.66
+Fighter: Kenichi Yamamoto (mixed martial artist) Glicko2: 1147.82
+Fighter: Brad Kohler                Glicko2: 1142.18
+Fighter: Michiyoshi Ohara           Glicko2: 1134.55
+Fighter: Yohei Nanbu                Glicko2: 1115.83
+Fighter: Nobuhiko Takada            Glicko2: 1115.15
+Fighter: Tom Howard (wrestler)      Glicko2: 1114.67
+Fighter: Nobuhiro Tsurumaki         Glicko2: 1106.54

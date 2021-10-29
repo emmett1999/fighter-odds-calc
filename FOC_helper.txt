@@ -1,0 +1,17 @@
+Thanks for using the MMA Fighter Odds Calculator.
+
+To use the program, type an MMA fighter name in the search bar and click the "add fighter button". 
+Add two fighters and the odds between a potential bout between them will display in the center of the screen.
+
+If you don't know any MMA fighters, try using these fighters to try out the program.
+
+Dustin Poirier
+and
+Charles Oliveira
+
+Francis Ngannou
+and 
+Jon Jones
+
+
+

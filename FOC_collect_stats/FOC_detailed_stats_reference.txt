@@ -1,0 +1,10 @@
+#Dictionary key:
+#{fightername:{a_stat: num, another_stat: another_num}}
+#SLpM = strikes landed per minute
+#StrAcc = striking accuracy %
+#SApM = strikes absorbed per minute
+#StrDef = striking defense % (% of opponent's strikes that did not land)
+#TDAvg = Average takedowns per 15 minutes
+#TDAcc = Takedown accuracy %
+#TDDef = Takedown defense % (% of opponent's takedowns that did not land)
+#SubAvg = Average submissions attempted per 15 minutes
