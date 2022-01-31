@@ -1,8 +1,6 @@
-import io, json
-
 
 class Fight(object):
-    """docstring"""
+    """Defines a Fight, which is contains the information about an MMA fight."""
 
     def __init__(self, fighterA, fighterB, result, method, date, round_finished, time):
         """Constructor"""
@@ -16,20 +14,20 @@ class Fight(object):
 
     def print_stats(self):
         print("%s vs. %s" % (self.fighterA, self.fighterB))
-        a_str = "Result: %s %s by %s at %s of round %s on %s" % \
+        stat_string = "Result: %s %s by %s at %s of round %s on %s" % \
                 (self.fighterA, self.result, self.method, self.time, self.round_finished, self.date)
-        print(a_str)
+        print(stat_string)
         print("==========================================================")
 
     def get_json(self):
-        a_str = '{\n\t"fighterA":"%s",\n\t"fighterB":"%s",\n\t"result":"%s",\n\t"method":"%s",\n\t' \
+        json_string = '{\n\t"fighterA":"%s",\n\t"fighterB":"%s",\n\t"result":"%s",\n\t"method":"%s",\n\t' \
                 % (self.fighterA, self.fighterB, self.result, self.method)
-        a_str += '"date":"%s",\n\t"roundFinished":"%s",\n\t"time":"%s"\n}' %\
+        json_string += '"date":"%s",\n\t"roundFinished":"%s",\n\t"time":"%s"\n}' %\
                  (self.date, self.round_finished, self.time)
-        return a_str
+        return json_string
 
 
 if __name__ == "__main__":
-    print("Hello world")
+    pass
 
 
